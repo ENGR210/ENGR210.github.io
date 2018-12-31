@@ -6,21 +6,19 @@ This course provides a strong foundation for modern digital system design using 
 
 ## Quick Links
 
-### [Syllabus](https://docs.google.com/document/d/e/2PACX-1vT7TNV4EW2wFGcmBubDebvns7ZI7QVURaFrLkGgaNw9PKo-o29OirHDP5riQ4OXBM39IEjF6rFc4_Di/pub)
+### [Syllabus](syllabus.md)
 
-### [Canvas](https://iu.instructure.com/courses/1737693) _(Registered students only)_
+### [Canvas](https://iu.instructure.com/courses/1773083) _(Registered students only)_
 
 ### [Google Drive](https://drive.google.com/drive/folders/1D1-HrIt-PcKSHfEDEsPc7CJWWazd_74l?usp=sharing)
 
-### [Piazza](https://piazza.com/class/jkih6n5kn6c1xh/home)
+### [Piazza](https://piazza.com/class/jqchdxa4i335aa/home)
 
 ### [Autograder ](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
 
 ## Projects
 
-[P0: Vivado
-Tutorial](https://docs.google.com/document/d/e/2PACX-1vTFs5damCubkKJ8IMnJnYjyeaS9B_t-tUjOw_3ol77GBCl77m-IzO_8RyAZxC-MrU_bMftUPsFtmfyX/pub)
-
+None Yet!
 
 ## Course Schedule
 
