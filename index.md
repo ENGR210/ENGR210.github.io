@@ -8,13 +8,16 @@ This course provides a strong foundation for modern digital system design using 
 
 ### [Syllabus](syllabus.md)
 
-### [Canvas](https://iu.instructure.com/courses/1773083) _(Registered students only)_
+### [Lecture Slides](https://drive.google.com/drive/folders/1pHBSAonP4FcpAmzgQB6zeGL0lf40avk5?usp=sharing)
 
-### [Google Drive](https://drive.google.com/drive/folders/1D1-HrIt-PcKSHfEDEsPc7CJWWazd_74l?usp=sharing)
+### [Autograder ](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
 
 ### [Piazza](https://piazza.com/class/jqchdxa4i335aa/home)
 
-### [Autograder ](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
+### [Downloads](https://drive.google.com/drive/folders/1F7L00AAyPGXuPK9kL2j7kHGzELXcVFp2?usp=sharing)
+
+### [Canvas](https://iu.instructure.com/courses/1773083) _(Registered students only)_
+
 
 ## Projects
 
@@ -24,9 +27,38 @@ None Yet!
 
 This is the tentative schedule for this semester.
 
-{::nomarkdown}
+| Date  |   Day     | Lecture Topic         |  Project Topic    | 
+| --    |  -----    |   -----               |     -----         | 
+| 1/8   | Tuesday   | Intro / Logic         |                   |
+| 1/10  | Thursday  | Vivado Tutorial       | Basic Logic Gates |
+| 1/15  | Tuesday   | Verilog Basics        |                   |
+| 1/17  | Thursday  | Decoders/Encoders     |  Decoder / Demux  |
+| 1/22  | Tuesday   | Mux/Demux             |                   |
+| 1/24  | Thursday  | Adders / ALUs         |   ALU             |
+| 1/29  | Tuesday   | Latches / Flops       |                   |
+| 1/31  | Thursday  | Latches / Flops       |   Timer           |
+| 2/5   | Tuesday   | Sequential Logic      |                   |
+| 2/7   | Thursday  | Sequential Logic      | Elevator Controller |
+| 2/12  | Tuesday   | Finite State Machines |                   |
+| 2/14  | Thursday  | Finite State Machines | Elevator Controller |
+| 2/19  |  Tuesday  | Finite State Machines |                   |
+| 2/21  |  Thursday | Review                |  None             |  
+| 2/26  | Tuesday   | Exam I                |                   |
+| 2/28  | Thursday  | Serial Communication  |  UART             |
+| 3/5   | Tuesday   | Serial Communication  |                   |
+| 3/7   | Thursday  | Serial Communication  |  UART             |
+| 3/12  | Tuesday   | Spring Break          |                   | 
+| 3/14  | Thursday  | Spring Break          |                   |
+| 3/19  | Tuesday   | Memory                |                   |
+| 3/21  | Thursday  | Memory                |  Stack            |
+| 3/26  | Tuesday   | CPU Design            |                   |
+| 3/28  | Thursday  | CPU Design            |  Calculator       |
+| 4/2   | Tuesday   | CPU Design            |                   |
+| 4/4   | Thursday  | CPU Design            |  Calculator       |
+| 4/9   | Tuesday   | FPGA Internals        |                   |
+| 4/11  | Thursday  | FPGA Internals        | Calculator        |
+| 4/16  | Tuesday   | Circuits              |                   |
+| 4/18  | Thursday  | CMOS                  | CPU               |
+| 4/23  | Tuesday   | Overflow              |                   |
+| 4/25  | Thursday  | Review                | CPU               |
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShqnSsP2jnbVbwGjV50bc-l8Ot-gE98R74PrO3neJ9GRTTYZpw61N7qLe2CZ-2GAy-QLeQqLaFkhOF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="900">
-</iframe>
-
-{:/}

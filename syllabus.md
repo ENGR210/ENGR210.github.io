@@ -33,8 +33,8 @@ IF 4111 (Luddy Hall)
 
 ## Prerequisites
 
-Engineering: ENGR E110 and ENGR E201
-Computer Science: CSCI-C 335 Computer Structures
+Engineering: ENGR E110 and ENGR E201  
+Computer Science: CSCI-C 335 Computer Structures  
 
 ## Textbook
 
@@ -48,9 +48,10 @@ on the course website.
 
 * Sequential logic
   * Boolean logic (review)
+  * Encoders / decoders
   * Multiplexers / demultiplexers
   * Adders / fast adders
-* Combination Logic
+* Combinational Logic
   * Latches 
   * Flip flops
   * Timers
