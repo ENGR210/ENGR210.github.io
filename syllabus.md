@@ -83,7 +83,7 @@ In all cases, we require written proof of the emergency.
 
 ## Grading
 
-Your final grade is based on scores from programming projects and two exams. The
+Your final grade is based on scores from the programming projects and two exams. The
 tentative point distribution is included in the following table. It is not
 likely that this will change, but circumstances might occur which would make
 changes necessary, at the discretion of the instructor. *Once a grade has been
