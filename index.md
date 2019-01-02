@@ -21,7 +21,7 @@ This course provides a strong foundation for modern digital system design using 
 
 ## Projects
 
-None Yet!
+[P0 - Vivado Tutorial](https://docs.google.com/document/d/1kZTcPmTAU91HoLOlRBrc2Nz9sa5rJYhDsOkhBRS8Asc)
 
 ## Course Schedule
 
