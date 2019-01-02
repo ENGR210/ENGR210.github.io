@@ -1,4 +1,4 @@
-# Welcome to ENGR 210 ( CSCI B442 )
+# Welcome to ENGR 210 ( CSCI B441 )
 
 Spring 2019
 
