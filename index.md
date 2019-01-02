@@ -23,6 +23,8 @@ This course provides a strong foundation for modern digital system design using 
 
 [P0 - Vivado Tutorial](https://docs.google.com/document/d/1kZTcPmTAU91HoLOlRBrc2Nz9sa5rJYhDsOkhBRS8Asc)
 
+[P1 - Logic Gates](https://docs.google.com/document/d/1OZPhRJoNW6variLEV1iyCQ5HWxGvJrfiC3c3eMZx8vo)
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.
