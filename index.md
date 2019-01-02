@@ -63,4 +63,4 @@ This is the tentative schedule for this semester.
 | 4/18  | Thursday  | CMOS                  | CPU               |
 | 4/23  | Tuesday   | Overflow              |                   |
 | 4/25  | Thursday  | Review                | ---               |
-
+| 4/30  | Tuesday   | Final                 | 10.15am - 12.15pm | 
