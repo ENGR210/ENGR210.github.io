@@ -12,7 +12,7 @@ This course provides a strong foundation for modern digital system design using 
 
 ### [Autograder ](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
 
-### [Piazza](https://piazza.com/class/jqchdxa4i335aa/home)
+### [Piazza](https://piazza.com/iu/spring2019/engr210) 
 
 ### [Downloads](https://drive.google.com/drive/folders/1F7L00AAyPGXuPK9kL2j7kHGzELXcVFp2?usp=sharing)
 
