@@ -25,6 +25,8 @@ This course provides a strong foundation for modern digital system design using 
 
 [P1 - Logic Gates](https://docs.google.com/document/d/1OZPhRJoNW6variLEV1iyCQ5HWxGvJrfiC3c3eMZx8vo)
 
+[P2 - Demultiplexer](https://docs.google.com/document/d/1Rj3unKI4HSYLK2RXPZC8QtKkO7RjeODvGsXBml3XYvc)
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.
