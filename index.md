@@ -27,6 +27,8 @@ This course provides a strong foundation for modern digital system design using 
 
 [P2 - Demultiplexer](https://docs.google.com/document/d/1Rj3unKI4HSYLK2RXPZC8QtKkO7RjeODvGsXBml3XYvc)
 
+[P3 - ALU](https://docs.google.com/document/d/1RRvwygbDnNsa3qJXbZWh4ggeYInssOUyk8rbZ0xBBO4)
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.
