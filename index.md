@@ -29,6 +29,8 @@ This course provides a strong foundation for modern digital system design using 
 
 [P3 - ALU](https://docs.google.com/document/d/1RRvwygbDnNsa3qJXbZWh4ggeYInssOUyk8rbZ0xBBO4)
 
+[P4 - Countdown Timer](https://docs.google.com/document/d/1F6YbBx6yaj7YTb-HOkego2u0HxbHbKIipEl4AFHWnHA)
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.
