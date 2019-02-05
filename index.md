@@ -45,12 +45,12 @@ This is the tentative schedule for this semester.
 | 1/24  | Thursday  | Adders / ALUs         |   ALU             |
 | 1/29  | Tuesday   | Latches / Flops       |                   |
 | 1/31  | Thursday  | Latches / Flops       |   Timer           |
-| 2/5   | Tuesday   | Finite State Machines |                   |
-| 2/7   | Thursday  | Finite State Machines | Elevator Controller |
+| 2/5   | Tuesday   | Sequential Logic      |                   |
+| 2/7   | Thursday  | Sequential Logic      |   Timer           |
 | 2/12  | Tuesday   | Finite State Machines |                   |
-| 2/14  | Thursday  | Sequential Logic      | Elevator Controller |
-| 2/19  |  Tuesday  | Sequential Logic      |                   |
-| 2/21  |  Thursday | Review                |  None             |  
+| 2/14  | Thursday  | Finite State Machines | Elevator Controller |
+| 2/19  |  Tuesday  | Finite State Machines |                   |
+| 2/21  |  Thursday | Review                | Elevator Controller |
 | 2/26  | Tuesday   | Exam I                |                   |
 | 2/28  | Thursday  | Serial Communication  |  UART             |
 | 3/5   | Tuesday   | Serial Communication  |                   |
