@@ -31,6 +31,8 @@ This course provides a strong foundation for modern digital system design using 
 
 [P4 - Countdown Timer](https://docs.google.com/document/d/1F6YbBx6yaj7YTb-HOkego2u0HxbHbKIipEl4AFHWnHA)
 
+[P5 - Elevator Controller](https://docs.google.com/document/d/1mYbJ8RF8ogKS2h6V6tx4pSB7vT9Tpaz-Gl8Nn-NnrTU)
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.
