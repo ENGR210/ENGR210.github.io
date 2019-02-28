@@ -54,17 +54,17 @@ This is the tentative schedule for this semester.
 | 2/19  |  Tuesday  | Serial Communication  |                   |
 | 2/21  |  Thursday | Review                | Elevator Controller |
 | 2/26  | Tuesday   | Exam I                |                   |
-| 2/28  | Thursday  | Serial Communication  |  UART             |
+| 2/28  | Thursday  | Serial Communication  |  Elevator Controller |
 | 3/5   | Tuesday   | Serial Communication  |                   |
 | 3/7   | Thursday  | Memory                |  UART             |
 | 3/12  | Tuesday   | Spring Break          |                   | 
 | 3/14  | Thursday  | Spring Break          |  --               |
 | 3/19  | Tuesday   | Memory                |                   |
-| 3/21  | Thursday  | Memory                | Calculator        |
+| 3/21  | Thursday  | Memory                | UART              | 
 | 3/26  | Tuesday   | CPU Design            |                   |
 | 3/28  | Thursday  | CPU Design            | Calculator        |
 | 4/2   | Tuesday   | CPU Design            |                   |
-| 4/4   | Thursday  | CPU Design            | CPU               | 
+| 4/4   | Thursday  | CPU Design            | Calculator        |
 | 4/9   | Tuesday   | FPGA Internals        |                   |
 | 4/11  | Thursday  | FPGA Internals        | CPU               |
 | 4/16  | Tuesday   | Circuits              |                   | 
