@@ -33,6 +33,8 @@ This course provides a strong foundation for modern digital system design using 
 
 [P5 - Elevator Controller](https://docs.google.com/document/d/1mYbJ8RF8ogKS2h6V6tx4pSB7vT9Tpaz-Gl8Nn-NnrTU)
 
+[P6 - UART](https://docs.google.com/document/d/1a47zMK3BB6uvwVhB6w5PWYc2y5nPrkHLeRITB5SpA04)
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.
