@@ -64,15 +64,15 @@ This is the tentative schedule for this semester.
 | 3/12  | Tuesday   | Spring Break          |                   | 
 | 3/14  | Thursday  | Spring Break          |  --               |
 | 3/19  | Tuesday   | Memory                |                   |
-| 3/21  | Thursday  | Memory                | UART              | 
-| 3/26  | Tuesday   | CPU Design            |                   |
-| 3/28  | Thursday  | CPU Design            | Calculator        |
-| 4/2   | Tuesday   | CPU Design            |                   |
-| 4/4   | Thursday  | CPU Design            | Calculator        |
-| 4/9   | Tuesday   | FPGA Internals        |                   |
-| 4/11  | Thursday  | FPGA Internals        | CPU               |
-| 4/16  | Tuesday   | Circuits              |                   | 
-| 4/18  | Thursday  | CMOS                  | CPU               | 
+| 3/21  | Thursday  | FPGAS                 | UART              | 
+| 3/26  | Tuesday   | Circuits              |                   |
+| 3/28  | Thursday  | CMOS I                | Calculator        |
+| 4/2   | Tuesday   | CMOS II               |                   |
+| 4/4   | Thursday  | Pipelining            | Calculator        |
+| 4/9   | Tuesday   | NO CLASS              |                   |
+| 4/11  | Thursday  | Pipelining            | Calculator II     |
+| 4/16  | Tuesday   | CPU                   |                   | 
+| 4/18  | Thursday  | CPU                   | Calculator II     | 
 | 4/23  | Tuesday   | Overflow              |                   |
 | 4/25  | Thursday  | Review                | ---               |
 | 4/30  | Tuesday   | Final                 | 10.15am - 12.15pm | 
