@@ -37,6 +37,8 @@ This course provides a strong foundation for modern digital system design using 
 
 [P7 - Calculator](https://docs.google.com/document/d/19lomy5S2eiWU52fYtUUThPA_xaPkx0sTEud-U7Oz6iw)
 
+[P7b - Multiply / Divide](https://docs.google.com/document/d/1ni9N5sKnplQH6h7QXvaNU_EH5wV3uKnQp7ekacclMfs)
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.
@@ -68,11 +70,11 @@ This is the tentative schedule for this semester.
 | 3/26  | Tuesday   | Circuits              |                   |
 | 3/28  | Thursday  | CMOS I                | Calculator        |
 | 4/2   | Tuesday   | CMOS II               |                   |
-| 4/4   | Thursday  | Pipelining            | Calculator        |
+| 4/4   | Thursday  | CMOS III              | Calculator        |
 | 4/9   | Tuesday   | NO CLASS              |                   |
-| 4/11  | Thursday  | Pipelining            | Calculator II     |
-| 4/16  | Tuesday   | CPU                   |                   | 
+| 4/11  | Thursday  | Multiplication        | Calculator II     |
+| 4/16  | Tuesday   | Division              |                   | 
 | 4/18  | Thursday  | CPU                   | Calculator II     | 
-| 4/23  | Tuesday   | Overflow              |                   |
+| 4/23  | Tuesday   | CPU                   |                   |
 | 4/25  | Thursday  | Review                | ---               |
 | 4/30  | Tuesday   | Final                 | 10.15am - 12.15pm | 
