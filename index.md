@@ -1,6 +1,6 @@
 # Welcome to ENGR 210 ( CSCI B441 )
 
-Spring 2019
+Spring 2020
 
 This course provides a strong foundation for modern digital system design using hardware description languages. We start with basics of digital electronics and learn how digital gates are used to build large digital systems. We will practice modern digital system design by using state of the art software tools and implementation of the digital systems on a programmable hardware platform.  At the end of the course, students will be familiar with modern approach for designing digital systems, using hardware description languages along with an appropriate methodology.
 
