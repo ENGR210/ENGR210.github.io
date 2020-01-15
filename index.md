@@ -8,8 +8,9 @@ This course provides a strong foundation for modern digital system design using 
 
 ### [Syllabus](syllabus.md)
 
+### [Lecture Slides](https://github.com/engr210/lecture_slides)
 
-### [Autograder ](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
+### [Autograder](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
 
 ### [Piazza](https://piazza.com/iu/spring2019/engr210) 
 
@@ -22,21 +23,8 @@ This course provides a strong foundation for modern digital system design using 
 
 [P0 - Vivado Tutorial](https://docs.google.com/document/d/1kZTcPmTAU91HoLOlRBrc2Nz9sa5rJYhDsOkhBRS8Asc)
 
-[P1 - Logic Gates](https://docs.google.com/document/d/1OZPhRJoNW6variLEV1iyCQ5HWxGvJrfiC3c3eMZx8vo)
+[P1 - Logic Gates](https://docs.google.com/document/d/1wAxITl_U1oaQVwE-TsMCSSLzC7mG7gzEIgHaMQCuI9w/edit?usp=sharing)
 
-[P2 - Demultiplexer](https://docs.google.com/document/d/1Rj3unKI4HSYLK2RXPZC8QtKkO7RjeODvGsXBml3XYvc)
-
-[P3 - ALU](https://docs.google.com/document/d/1RRvwygbDnNsa3qJXbZWh4ggeYInssOUyk8rbZ0xBBO4)
-
-[P4 - Countdown Timer](https://docs.google.com/document/d/1F6YbBx6yaj7YTb-HOkego2u0HxbHbKIipEl4AFHWnHA)
-
-[P5 - Elevator Controller](https://docs.google.com/document/d/1mYbJ8RF8ogKS2h6V6tx4pSB7vT9Tpaz-Gl8Nn-NnrTU)
-
-[P6 - UART](https://docs.google.com/document/d/1a47zMK3BB6uvwVhB6w5PWYc2y5nPrkHLeRITB5SpA04)
-
-[P7 - Calculator](https://docs.google.com/document/d/19lomy5S2eiWU52fYtUUThPA_xaPkx0sTEud-U7Oz6iw)
-
-[P7b - Multiply / Divide](https://docs.google.com/document/d/1ni9N5sKnplQH6h7QXvaNU_EH5wV3uKnQp7ekacclMfs)
 
 ## Course Schedule
 
