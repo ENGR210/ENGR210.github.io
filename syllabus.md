@@ -17,17 +17,18 @@ along with an appropriate methodology.
 
 ## Instructor
 
-Andrew Lukefahr  
-lukefahr@iu.edu  
-2032 Luddy Hall  
+Suha Lasassmeh  
+sumlasas@iu.edu  
+4148 Luddy Hall  
 
 ## Schedule
 
 Lecture:  
 09:30A-10:45A Tues/Thurs   
-IF 4111 (Luddy Hall)  
+IF 0117 (Luddy Hall)  
 
-Lab:   
+Lab: 
+9:00A-11:00A    Friday
 11:15A-01:10P   Friday   
 IF 4111 (Luddy Hall)   
 
