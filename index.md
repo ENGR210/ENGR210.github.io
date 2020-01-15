@@ -32,36 +32,36 @@ This is the tentative schedule for this semester.
 
 | Date  |   Day     | Lecture Topic         |  Project Topic    | 
 | --    |  -----    |   -----               |     -----         | 
-| 1/8   | Tuesday   | Intro / Logic         |                   |
-| 1/10  | Thursday  | Vivado Tutorial       | Basic Logic Gates |
-| 1/15  | Tuesday   | Verilog Basics        |                   |
-| 1/17  | Thursday  | Decoders/Encoders     |  Decoder / Demux  |
-| 1/22  | Tuesday   | Mux/Demux             |                   |
-| 1/24  | Thursday  | Adders / ALUs         |   ALU             |
-| 1/29  | Tuesday   | ALUs / Latches        |                   |
-| 1/31  | Thursday  | Latches / Flops       |   Timer           |
-| 2/5   | Tuesday   | Sequential Logic      |                   |
-| 2/7   | Thursday  | Finite State Machines |   Timer           |
-| 2/12  | Tuesday   | Finite State Machines |                   |
-| 2/14  | Thursday  | Finite State Machines | Elevator Controller |
-| 2/19  |  Tuesday  | Serial Communication  |                   |
-| 2/21  |  Thursday | Review                | Elevator Controller |
-| 2/26  | Tuesday   | Exam I                |                   |
-| 2/28  | Thursday  | Serial Communication  |  Elevator Controller |
-| 3/5   | Tuesday   | Serial Communication  |                   |
-| 3/7   | Thursday  | Memory                |  UART             |
-| 3/12  | Tuesday   | Spring Break          |                   | 
-| 3/14  | Thursday  | Spring Break          |  --               |
-| 3/19  | Tuesday   | Memory                |                   |
-| 3/21  | Thursday  | FPGAS                 | UART              | 
-| 3/26  | Tuesday   | Circuits              |                   |
-| 3/28  | Thursday  | CMOS I                | Calculator        |
-| 4/2   | Tuesday   | CMOS II               |                   |
-| 4/4   | Thursday  | CMOS III              | Calculator        |
-| 4/9   | Tuesday   | NO CLASS              |                   |
-| 4/11  | Thursday  | Multiplication        | Calculator II     |
-| 4/16  | Tuesday   | Division              |                   | 
-| 4/18  | Thursday  | CPU                   | Calculator II     | 
+| 1/14   | Tuesday   | Intro / Logic         |                   |
+| 1/16  | Thursday  | Vivado Tutorial       | Basic Logic Gates |
+| 1/21  | Tuesday   | Verilog Basics        |                   |
+| 1/23  | Thursday  | Decoders/Encoders     |  Decoder / Demux  |
+| 1/28  | Tuesday   | Mux/Demux             |                   |
+| 1/30  | Thursday  | Adders / ALUs         |   ALU             |
+| 2/04 | Tuesday   | ALUs / Latches        |                   |
+| 2/06  | Thursday  | Latches / Flops       |   Timer           |
+| 2/11   | Tuesday   | Sequential Logic      |                   |
+| 2/13   | Thursday  | Finite State Machines |   Timer           |
+| 2/18  | Tuesday   | Finite State Machines |                   |
+| 2/20  | Thursday  | Finite State Machines | Elevator Controller |
+| 2/27  |  Tuesday  | Serial Communication  |                   |
+| 3/03  |  Thursday | Review                | Elevator Controller |
+| 3/05  | Tuesday   | Exam I                |                   |
+| 3/10  | Thursday  | Serial Communication  |  Elevator Controller |
+| 3/12   | Tuesday   | Serial Communication  |                   |
+| 3/17   | Thursday  | Spring Break               |  UART             |
+| 3/19  | Tuesday   |  Spring Break        |                   | 
+| 3/24  | Thursday  | Memory         |  --               |
+| 3/26  | Tuesday   | Memory                |                   |
+| 3/31  | Thursday  | FPGAS                 | UART              | 
+| 4/02  | Tuesday   | Circuits              |                   |
+| 4/07  | Thursday  | CMOS I                | Calculator        |
+| 4/09   | Tuesday   | CMOS II               |                   |
+| 4/14   | Thursday  | CMOS III              | Calculator        |
+| 4/16   | Tuesday   | Multiplication              |                   |
+| 4/21  | Thursday  | Multiplication        | Calculator II     |
+| 4/23  | Tuesday   | Division              |                   | 
+| 4/28  | Thursday  | CPU                   | Calculator II     | 
 | 4/23  | Tuesday   | CPU                   |                   |
 | 4/25  | Thursday  | Review                | ---               |
-| 4/30  | Tuesday   | Final                 | 10.15am - 12.15pm | 
+| 4/30  | Tuesday   | Final                 | 9.30am - 11.45am | 
