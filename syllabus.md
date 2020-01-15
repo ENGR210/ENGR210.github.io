@@ -1,6 +1,6 @@
 # ENGR 210 / CSCI B441 Syllabus
 
-Spring, 2019
+Spring, 2020
 
 ## Description
 
@@ -151,5 +151,5 @@ clarifications. It is your responsibility to ensure you are able to receive
 Canvas announcements.
 
 ----
-Version: 2019.1
+Version: 2020.0
 
