@@ -8,7 +8,7 @@ This course provides a strong foundation for modern digital system design using 
 
 ### [Syllabus](syllabus.md)
 
-### [Lecture Slides](https://github.com/engr210/lecture_slides)
+### [Lecture Slides](https://drive.google.com/drive/folders/1ym3JUo5TW2quNb6rhtcljxgVd5fjzczg?usp=sharing)
 
 ### [Autograder](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
 
