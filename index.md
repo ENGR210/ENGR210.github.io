@@ -26,6 +26,7 @@ This course provides a strong foundation for modern digital system design using 
 [P1 - Logic Gates](https://docs.google.com/document/d/1OZPhRJoNW6variLEV1iyCQ5HWxGvJrfiC3c3eMZx8vo)
 
 [P2 - Demultiplexer](https://docs.google.com/document/d/1o02Y2rexq2IHROQaUYS6GD_TwUbfTaikeP8ysp6FJi8)
+[P3 - Arithmetic Logic Unit](https://docs.google.com/document/d/1uhQR3LDZLIDAheTqNy58HJ456uEFfEh4IH7j1ZReyHM/edit?usp=sharing)
 ## Course Schedule
 
 This is the tentative schedule for this semester.
