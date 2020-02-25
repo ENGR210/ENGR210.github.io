@@ -52,8 +52,8 @@ This is the tentative schedule for this semester.
 | 2/18  | Tuesday   | Finite State Machines |                   |
 | 2/20  | Thursday  | Finite State Machines | Elevator Controller |
 | 2/27  |  Tuesday  | Serial Communication  |                   |
-| 3/03  |  Thursday | Review                | Elevator Controller |
-| 3/05  | Tuesday   | Exam I                |                   |
+| 3/03  |  Tuesday | Review                | Elevator Controller |
+| 3/05  | Thursday   | Exam I                |                   |
 | 3/10  | Thursday  | Serial Communication  |  Elevator Controller |
 | 3/12   | Tuesday   | Serial Communication  |                   |
 | 3/17   | Thursday  | Spring Break               |  UART             |
