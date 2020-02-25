@@ -1,3 +1,4 @@
+
 # Welcome to ENGR 210 ( CSCI B441 )
 
 Spring 2020
@@ -30,6 +31,8 @@ This course provides a strong foundation for modern digital system design using 
 [P3 - Arithmetic Logic Unit](https://docs.google.com/document/d/1uhQR3LDZLIDAheTqNy58HJ456uEFfEh4IH7j1ZReyHM/edit?usp=sharing)
 
 [P4 - Countdown Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005HwC-YI/edit?usp=sharing)
+
+[P5 - Elevator Control](https://docs.google.com/document/d/1IdqlRf4rqOpv0cBeurJ29rpMXwudnfIx8i1Z8IPmqxI/edit?usp=sharing)
 ## Course Schedule
 
 This is the tentative schedule for this semester.
