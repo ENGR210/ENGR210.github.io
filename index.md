@@ -68,7 +68,7 @@ This is the tentative schedule for this semester.
 | 4/07  | Thursday  | CMOS I                | Calculator        |
 | 4/09   | Tuesday   | CMOS II               |                   |
 | 4/14   | Thursday  | CMOS III              | Calculator        |
-| 4/16   | Tuesday   | Multiplication              |                   |
+| 4/16   | Tuesday   | Multiplication              |                  |
 | 4/21  | Thursday  | Multiplication        | Calculator II     |
 | 4/23  | Tuesday   | Division              |                   | 
 | 4/28  | Thursday  | CPU                   | Calculator II     | 
