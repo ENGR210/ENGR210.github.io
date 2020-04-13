@@ -36,6 +36,8 @@ This course provides a strong foundation for modern digital system design using 
 
 [P6 - UART](https://docs.google.com/document/d/1dxm55Ct0wDpdce9y02u2D1DiFJ1YpZUdxzTfeGLi05A/edit?usp=sharing)
 
+[P7 - Postfix Calculator](https://docs.google.com/document/d/1ApDEDIPBYUmE_dggMogTmvb7Bb1qxodMbxjTzoPfIqs/edit?usp=sharing)
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.
