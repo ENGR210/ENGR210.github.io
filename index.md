@@ -11,20 +11,22 @@ This course provides a strong foundation for modern digital system design using 
 
 ### [Lecture Slides](https://drive.google.com/drive/folders/1ym3JUo5TW2quNb6rhtcljxgVd5fjzczg?usp=sharing)
 
-### [Autograder](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
+### [Autograder](https://autograder.sice.indiana.edu) 
 
 ### [Piazza](piazza.com/iu/spring2020/e210) 
 
-### [Downloads](https://drive.google.com/drive/folders/1F7L00AAyPGXuPK9kL2j7kHGzELXcVFp2?usp=sharing)
+### [Downloads](http://github.com/engr210/downloads) 
 
 ### [Canvas](https://iu.instructure.com/courses/1773083) _(Registered students only)_
 
 
 ## Projects
 
-[P0 - Vivado Tutorial](https://docs.google.com/document/d/1ydtvsCJaGSUWNMd3byvegsMfa6kRY8q1nOXQNVc5FVE)
+<!-- [P0 - Vivado
+Tutorial](https://docs.google.com/document/d/1ydtvsCJaGSUWNMd3byvegsMfa6kRY8q1nOXQNVc5FVE)
+-->
 
-[P1 - Logic Gates](https://docs.google.com/document/d/1OZPhRJoNW6variLEV1iyCQ5HWxGvJrfiC3c3eMZx8vo)
+[P0 - Logic Gates](https://docs.google.com/document/d/1OZPhRJoNW6variLEV1iyCQ5HWxGvJrfiC3c3eMZx8vo)
 
 [P2 - Demultiplexer](https://docs.google.com/document/d/1o02Y2rexq2IHROQaUYS6GD_TwUbfTaikeP8ysp6FJi8)
 
