@@ -32,7 +32,10 @@ Tutorial](https://docs.google.com/document/d/1ydtvsCJaGSUWNMd3byvegsMfa6kRY8q1nO
 
 [P2 - Arithmetic Logic Unit](https://docs.google.com/document/d/1uhQR3LDZLIDAheTqNy58HJ456uEFfEh4IH7j1ZReyHM/edit?usp=sharing)
 
-[P3 - Countdown Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005HwC-YI/edit?usp=sharing)
+<!-- [P3 - Countdown
+Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005HwC-YI/edit?usp=sharing)
+-->
+[P3 - Saturating Counter](https://docs.google.com/document/d/1JLgk0VguSrih_h3BsMyMtInTJ4Qrl--Hv2jkxK4chZw)
 
 [P4 - Elevator Control](https://docs.google.com/document/d/1IdqlRf4rqOpv0cBeurJ29rpMXwudnfIx8i1Z8IPmqxI/edit?usp=sharing)
 
