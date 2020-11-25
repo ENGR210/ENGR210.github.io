@@ -1,7 +1,7 @@
 
 # Welcome to ENGR 210 ( CSCI B441 )
 
-Spring 2020
+Spring 2021 (DRAFT)
 
 This course provides a strong foundation for modern digital system design using hardware description languages. We start with basics of digital electronics and learn how digital gates are used to build large digital systems. We will practice modern digital system design by using state of the art software tools and implementation of the digital systems on a programmable hardware platform.  At the end of the course, students will be familiar with modern approach for designing digital systems, using hardware description languages along with an appropriate methodology.
 
@@ -9,15 +9,15 @@ This course provides a strong foundation for modern digital system design using 
 
 ### [Syllabus](syllabus.md)
 
-### [Lecture Slides](https://drive.google.com/drive/folders/1ym3JUo5TW2quNb6rhtcljxgVd5fjzczg?usp=sharing)
-
-### [Autograder](https://autograder.sice.indiana.edu) 
-
-### [Piazza](piazza.com/iu/spring2020/e210) 
+### [Lecture Slides](http://github.com/engr210/lecture_slides)
 
 ### [Downloads](http://github.com/engr210/downloads) 
 
-### [Canvas](https://iu.instructure.com/courses/1773083) _(Registered students only)_
+### [Autograder](https://autograder.sice.indiana.edu) 
+
+### [Canvas](https://iu.instructure.com/courses/1947790) _(Registered students only)_
+
+### [Slack](http://engr210.github.io) 
 
 
 ## Projects
@@ -53,36 +53,34 @@ This is the tentative schedule for this semester.
 
 | Date  |   Day     | Lecture Topic         |  Project Topic    | 
 | --    |  -----    |   -----               |     -----         | 
-| 1/14   | Tuesday   | Intro / Logic         |                   |
-| 1/16  | Thursday  | Vivado Tutorial       | Basic Logic Gates |
-| 1/21  | Tuesday   | Verilog Basics        |                   |
-| 1/23  | Thursday  | Decoders/Encoders     |  Decoder / Demux  |
-| 1/28  | Tuesday   | Mux/Demux             |                   |
-| 1/30  | Thursday  | Adders / ALUs         |   ALU             |
-| 2/04 | Tuesday   | ALUs / Latches        |                   |
-| 2/06  | Thursday  | Latches / Flops       |   Timer           |
-| 2/11   | Tuesday   | Sequential Logic      |                   |
-| 2/13   | Thursday  | Finite State Machines |   Timer           |
-| 2/18  | Tuesday   | Finite State Machines |                   |
-| 2/20  | Thursday  | Finite State Machines | Elevator Controller |
-| 2/27  |  Tuesday  | Serial Communication  |                   |
-| 3/03  |  Tuesday | Review                | Elevator Controller |
-| 3/05  | Thursday   | Exam I                |                   |
-| 3/10  | Thursday  | Serial Communication  |  Elevator Controller |
-| 3/12   | Tuesday   | Serial Communication  |                   |
-| 3/17   | Thursday  | Spring Break               |  UART             |
-| 3/19  | Tuesday   |  Spring Break        |                   | 
-| 3/24  | Thursday  | Memory         |  --               |
-| 3/26  | Tuesday   | Memory                |                   |
-| 3/31  | Thursday  | FPGAS                 | UART              | 
-| 4/02  | Tuesday   | Circuits              |                   |
-| 4/07  | Thursday  | CMOS I                | Calculator        |
-| 4/09   | Tuesday   | CMOS II               |                   |
-| 4/14   | Thursday  | CMOS III              | Calculator        |
-| 4/16   | Tuesday   | Multiplication              |                  |
-| 4/21  | Thursday  | Multiplication        | Calculator II     |
-| 4/23  | Tuesday   | Division              |                   | 
-| 4/28  | Thursday  | CPU                   | Calculator II     | 
-| 4/23  | Tuesday   | CPU                   |                   |
-| 4/25  | Thursday  | Review                | ---               |
-| 4/30  | Tuesday   | Final                 | 9.30am - 11.45am | 
+| 1/20  | Wednesday | Intro / Logic         |                   |
+| 1/25  | Monday    | Verilog Basics        | Demultiplexer     |
+| 1/27  | Wednesday | Decoders/Encoders     |                   |
+| 2/01  | Monday    | Mux/Demux             | Arith. Logic Unit | 
+| 2/03  | Wednesday | Adders / ALUs         |                   |
+| 2/08  | Monday    | ALUs / Latches        | Saturating Counter|
+| 2/10  | Wednesday | Latches / Flip Flops  |                   |
+| 2/15  | Monday    | Sequential Logic      | Saturating Counter| 
+| 2/17  | Wednesday | Finite State Machines |                   |
+| 2/22  | Monday    | Finite State Machines | Elevator Controller | 
+| 2/24  | Wednesday | Finite State Machines |                   |
+| 3/01  | Monday    | Finite State Machines | Elevator Controller |
+| 3/03  | Wednesday | Review                |                   |
+| 3/08  | Monday    | Exam I                | Elevator Controller |
+| 3/10  | Wednesday | Serial Communication  |                   |
+| 3/15  | Monday    | Serial Communication  | UART              |
+| 3/17  | Wednesday | Serial Communication  |                   |
+| 3/22  | Monday    |                       | UART              |
+| 3/24  | Wednesday |                       |                   | 
+| 3/29  | Monday    | Memory                | UART              |
+| 3/31  | Wednesday | Memory                |                   |
+| 4/05  | Monday    | FPGAS                 | Calculator        | 
+| 4/07  | Wednesday | Circuits              |                   |
+| 4/12  | Monday    | CMOS I                | Calculator        |
+| 4/14  | Wednesday | CMOS II               |                   |
+| 4/14  | Monday    | CMOS III              | Calculator        |
+| 4/19  | Wednesday | Multiplication        |                  |
+| 4/21  | Monday    | Multiplication        | Calculator II     |
+| 4/26  | Wednesday | Division              |                   | 
+| 4/28  | Monday    | CPU                   | Calculator II     | 
+| XXX   | XXX       | Final                 | XX.XXam - XX.XXam | 
