@@ -17,9 +17,9 @@ along with an appropriate methodology.
 
 ## Instructor
 
-Suha Lasassmeh  
-sumlasas@iu.edu  
-4148 Luddy Hall  
+Bryce Himebaugh__
+bhimebau@iu.edu  
+4146 Luddy Hall  
 
 ## Schedule
 
