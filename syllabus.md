@@ -1,6 +1,6 @@
 # ENGR 210 / CSCI B441 Syllabus
 
-Spring, 2020
+Spring, 2021
 
 ## Description
 
@@ -17,19 +17,33 @@ along with an appropriate methodology.
 
 ## Instructor
 
+Andrew Lukefahr\
+lukefahr@iu.edu\
+2032 Luddy Hall
+
 Bryce Himebaugh  
 bhimebau@iu.edu  
 4146 Luddy Hall  
 
+## TAs
+
+Malintha Fernando\
+ccfernan@iu.edu
+
+Merve Gokce Kurtoglu\
+meggokce@iu.edu
+
 ## Schedule
 
 Lecture:  
-09:30A-10:45A Tues/Thurs   
-IF 0117 (Luddy Hall)  
+09:25A-10:40A Tues/Thurs   
+Virtual 
 
-Lab: 
-9:00A-11:00A    Friday
-11:15A-01:10P   Friday   
+Lab:\
+12:30P - 02:25P Wednesday\
+04:15P - 06:10P Wednesday\
+08:45A - 10:40A Friday\
+11:15A - 01:10P Friday\
 IF 4111 (Luddy Hall)   
 
 ## Prerequisites
@@ -39,11 +53,12 @@ Computer Science: CSCI-C 335 Computer Structures
 
 ## Textbook
 
-Digital Design: An Embedded Systems Approach Using Verilog, Peter J. Ashenden,
-Elsevier, Morgan Kauffman, ISBN-13: 978-012369527.
+**Digital Design: An Embedded Systems Approach Using Verilog**, Peter J. Ashenden,
+Elsevier, Morgan Kauffman, ISBN-13: 978-012369527.\
+Electronic copies are available through the [IU
+library](https://iucat.iu.edu/catalog/14615095). 
 
-Electronic copies are available at the library. Other materials will be provided
-on the course website.
+Other materials will be provided on the course website.
 
 ## Topics Covered
 
@@ -55,10 +70,10 @@ on the course website.
 * Combinational Logic
   * Latches 
   * Flip flops
-  * Timers
-  * State machines
-* Serial communication
-* Basic processor architecture
+* State machines
+* Communication 
+  * Hardware Buses
+  * Interfacing
 
 ## Projects
 
@@ -109,18 +124,6 @@ through a VPN to access the website.
 
 Autograder Link: [https://autograder.sice.indiana.edu](https://autograder.sice.indiana.edu)
 
-## Forum
-
-We will be using Piazza to host a course forum. You are encouraged to read this
-regularly and post technical questions as it will be a significant source of
-help and hints on the projects. *We do not answer technical questions via
-email*. To save everyone time, we want all students to have the benefit of
-seeing each question and its answer, so please use the forum. We prohibit
-posting your own solutions, project code, test cases, or autograder output to
-the forum.
-
-Piazza Link: [https://piazza.com/class/jqchdxa4i335aa](https://piazza.com/class/jqchdxa4i335aa)
-
 ## Academic Integrity
 
 Learning difficult or complicated material is often facilitated by discussions
@@ -151,5 +154,5 @@ clarifications. It is your responsibility to ensure you are able to receive
 Canvas announcements.
 
 ----
-Version: 2020.0
+Version: 2021.0
 
