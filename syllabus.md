@@ -17,7 +17,7 @@ along with an appropriate methodology.
 
 ## Instructor
 
-Bryce Himebaugh__
+Bryce Himebaugh  
 bhimebau@iu.edu  
 4146 Luddy Hall  
 
