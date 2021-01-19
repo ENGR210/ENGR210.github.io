@@ -36,7 +36,7 @@ meggokce@iu.edu
 ## Schedule
 
 Lecture:  
-09:25A-10:40A Monday/Wednesday
+09:25A-10:40A Monday/Wednesday\
 Virtual 
 
 Lab:\
