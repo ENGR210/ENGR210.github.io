@@ -15,9 +15,11 @@ This course provides a strong foundation for modern digital system design using 
 
 ### [Autograder](https://autograder.sice.indiana.edu) 
 
-### [Canvas](https://iu.instructure.com/courses/1947790) _(Registered students only)_
+### [Canvas](https://iu.instructure.com/courses/1947790) _(registered students only)_
 
-### [Slack](http://engr210.github.io)  (Not Yet Setup)
+### [Zoom](https://iu.zoom.us/j/86581937943) _(registered students only)
+
+### [Slack](engr210-sp21.slack.com)
 
 ### [Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)
 <!--
