@@ -36,7 +36,7 @@ meggokce@iu.edu
 ## Schedule
 
 Lecture:  
-09:25A-10:40A Tues/Thurs   
+09:25A-10:40A Monday/Wednesday
 Virtual 
 
 Lab:\
@@ -154,5 +154,5 @@ clarifications. It is your responsibility to ensure you are able to receive
 Canvas announcements.
 
 ----
-Version: 2021.0
+Version: 2021.1
 
