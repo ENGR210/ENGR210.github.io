@@ -17,7 +17,7 @@ This course provides a strong foundation for modern digital system design using 
 
 ### [Canvas](https://iu.instructure.com/courses/1947790) _(registered students only)_
 
-### [Zoom] _(registered students only)_
+### Zoom _(registered students only)_
 
  - [Lectures](https://iu.zoom.us/j/86581937943) 
 
