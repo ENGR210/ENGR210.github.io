@@ -23,7 +23,7 @@ This course provides a strong foundation for modern digital system design using 
 
  - [Labs/Office Hours](https://iu.zoom.us/j/89702983096)
 
-### [Slack](engr210-sp21.slack.com)
+### [Slack](https://engr210-sp21.slack.com)
 
 ### [Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)
 <!--
