@@ -19,7 +19,10 @@ along with an appropriate methodology.
 
 Andrew Lukefahr\
 lukefahr@iu.edu\
-2032 Luddy Hall
+2032 Luddy Hall\
+Office Hours:
+ - Monday / Wednesday 10:40A - 11.30A
+ - Lecture Zoom
 
 Bryce Himebaugh  
 bhimebau@iu.edu  
@@ -28,10 +31,17 @@ bhimebau@iu.edu
 ## TAs
 
 Malintha Fernando\
-ccfernan@iu.edu
+ccfernan@iu.edu\
+Office Hours:
+ - 5pm - 7pm Thursday 
+ - Lab Zoom 
+
 
 Merve Gokce Kurtoglu\
-meggokce@iu.edu
+meggokce@iu.edu\
+Office Hours:
+ - 5pm - 7pm Tuesday
+ - Lab Zoom 
 
 ## Schedule
 
