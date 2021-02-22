@@ -65,16 +65,16 @@ This is the tentative schedule for this semester.
 | 1/25  | Monday    | Truth Tables          | Demultiplexer     |
 | 1/27  | Wednesday | Verilog Basics        |                   |
 | 2/01  | Monday    | Addition/Subtraction  | Arith. Logic Unit | 
-| 2/03  | Wednesday | Latches / Flip Flops  |                   |
-| 2/08  | Monday    | Sequential Logic      | Saturating Counter|
-| 2/10  | Wednesday | Finite State Machines |                   |
-| 2/15  | Monday    | Finite State Machines | Saturating Counter| 
+| 2/03  | Wednesday | Addition/Subtraction  |                   |
+| 2/08  | Monday    | Latches               | Arith. Logic Unit |
+| 2/10  | Wednesday | Flip Flops            |                   |
+| 2/15  | Monday    | Sequential Logic      | Saturating Counter| 
 | 2/17  | Wednesday | Finite State Machines |                   |
-| 2/22  | Monday    | Memory                | Elevator Controller | 
-| 2/24  | Wednesday | Timing                |                   |
-| 3/01  | Monday    | Overflow              | Elevator Controller |
+| 2/22  | Monday    | Finite State Machines | Saturating Counter| 
+| 2/24  | Wednesday | Memory                |                   |
+| 3/01  | Monday    | Timing                | Elevator Controller |
 | 3/03  | Wednesday | Review                |                   |
-| 3/08  | Monday    | Exam I                | None              |
+| 3/08  | Monday    | Exam I                | Elevator Controller |
 | 3/10  | Wednesday | Raspberry Pi Intro    |                   |
 | 3/15  | Monday    | C/Python on the Pi    | Pi Interfacing    |
 | 3/17  | Wednesday | Bus Overview / Tools  |                   |
