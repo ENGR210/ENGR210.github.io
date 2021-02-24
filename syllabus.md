@@ -24,9 +24,12 @@ Office Hours:
  - Monday / Wednesday 10:40A - 11.30A
  - Lecture Zoom
 
-Bryce Himebaugh  
-bhimebau@iu.edu  
-4146 Luddy Hall  
+Bryce Himebaugh\
+bhimebau@iu.edu\
+4146 Luddy Hall\
+Office Hours:
+ - Monday / Wednesday 10:40A - 11.30A
+ - Lecture Zoom
 
 ## TAs
 
