@@ -59,7 +59,7 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 
 ## Course Schedule
 
-This is the tentative schedule for this semester.
+### Computer Engineering Introduction
 
 | Date  |   Day     | Lecture Topic         |  Project Topic    | 
 | --    |  -----    |   -----               |     -----         | 
@@ -78,19 +78,27 @@ This is the tentative schedule for this semester.
 | 3/03  | Wednesday | Review                |                   |
 | 3/08  | Monday    | Exam I                | Elevator Controller |
 | 3/10  | Wednesday | Raspberry Pi Intro    |                   |
-| 3/15  | Monday    | C/Python on the Pi    | Pi Interfacing    |
-| 3/17  | Wednesday | Bus Overview / Tools  |                   |
-| 3/22  | Monday    | Bus Communication     | SPI               |
-| 3/24  | Wednesday | Wellness Day          |                   | 
-| 3/29  | Monday    | Bus Communication     | SPI               |
-| 3/31  | Wednesday | Bus Communication     |                   |
-| 4/05  | Monday    | Interfacing           | Pi SPI Interfacing| 
-| 4/07  | Wednesday | Interfacing           |                   |
-| 4/12  | Monday    | FFT Introduction      | Pi SPI Interfacing|
-| 4/14  | Wednesday | FFT Algorithm         |                   |
-| 4/14  | Monday    | IP Blocks             | FFT               |
-| 4/19  | Wednesday | IP Blocks             |                   |
-| 4/21  | Monday    | Overflow              | FFT               |
-| 4/26  | Wednesday | Overflow              |                   | 
-| 4/28  | Monday    | Review                | FFT               | 
-| 5/4   | Tuesday   | Final                 | 10:10AM - 12:10PM | 
+
+### Cyber-Physical Systems Introduction
+
+#### Reading References:
+1. [Introduction to Embedded Systems - A Cyber-Physical Systems Approach](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf)
+2. [Pro Git Book](https://git-scm.com/book/en/v2)
+3. [Sparkfun I2C Tutorial](https://learn.sparkfun.com/tutorials/i2c/all)
+4. [Python Classes](https://docs.python.org/3/tutorial/classes.html)
+5. [ST LPS331 Pressure Sensor](docs/LPS331AP.pdf)
+6. [Sparkfun SPI Tutorial](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all)
+7. [Cyber-Physical Systems - a Computational Perspective](https://iucat.iu.edu/catalog/16065139)
+
+| Weekly Focus          | Reading                | Monday                    | Wed                       | Lab                                       | 
+| -----                 | ------                 | ------                    | ---                       | ---                                       | 
+| Exam/CPS Introduction | Ref 1 Chapter 1        | **3/8:** Exam 1               | **3/10:** CPS Introduction    | **[Project 5 Raspberry PI Setup](P5.md)** |
+| Raspberry Pi          | Ref 2 Chapter 1-3      | **3/15:** Pi Intro/UART Bus   | **3/17:** Git/Github          |                                           |
+| I2C Bus               | Ref 3                  | **3/22:** I2C Bus             | **3/24:** Wellness Day        | **Project 6 I2C Pressure Sensor**         |
+| Python/Sensor         | Ref 4, Ref 5           | **3/29:** Classes/Modules     | **3/31:** Pressure Sensor     |                                           |
+| SPI                   | Ref 6                  | **4/5:** SPI Bus Overview     | **4/7:** SPI HDL Design       | **Project 7 SPI Connected I/O**           |
+| SPI                   | Ref 7 Chapter 1        | **4/12:** SPI HDL Design      | **4/14:** Sensor Memory       |                                           |
+| Network Interface     | Ref 7 Chapter 2        | **4/19:** Ethernet Interface  | **4/21:** MQTT                | **Project 8 Network Interface**           |
+| MQTT/Flask            | Ref 7 Chapter 14       | **4/26:** Flask               | **4/29:** Open Topic          |                                           |
+
+**Final Exam Tues 5/4 10:10-12:10**
