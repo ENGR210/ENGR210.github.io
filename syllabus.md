@@ -29,7 +29,7 @@ bhimebau@iu.edu\
 4146 Luddy Hall\
 Office Hours:
  - Monday / Wednesday 10:40A - 11.30A 
- - https://iu.zoom.us/j/3840877010
+ - [https://iu.zoom.us/j/3840877010](https://iu.zoom.us/j/3840877010)
  
 ## TAs
 
