@@ -89,6 +89,7 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 5. [ST LPS331 Pressure Sensor](docs/LPS331AP.pdf)
 6. [Sparkfun SPI Tutorial](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all)
 7. [Cyber-Physical Systems - a Computational Perspective](https://iucat.iu.edu/catalog/16065139)
+8. [Dive Into Python 3](https://diveintopython3.net/)
 
 | Weekly Focus          | Reading                | Monday                    | Wed                       | Lab                                       | 
 | -----                 | ------                 | ------                    | ---                       | ---                                       | 
