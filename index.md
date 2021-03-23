@@ -95,7 +95,7 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 | -----                 | ------                 | ------                    | ---                       | ---                                       | 
 | Exam/CPS Introduction | Ref 1 Chapter 1        | **3/8:** Exam 1               | **3/10:** [CPS Introduction](lectures/CPS_Introduction.pdf)   | **[Project 5 Raspberry PI Setup](P5.md)** |
 | Raspberry Pi          | Ref 2 Chapter 1-3      | **3/15:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf)   | **3/17:** [Git/Github](lectures/PI_Setup_Git_Intro.pdf)    |                                           |
-| I2C Bus               | Ref 3                  | **3/22:** [I2C Bus](lectures/I2C_Introduction.pdf)      | **3/24:** Wellness Day        | **Project 6 I2C Pressure Sensor**         |
+| I2C Bus               | Ref 3                  | **3/22:** [I2C Bus](lectures/I2C_Introduction.pdf)      | **3/24:** Wellness Day        | **[Project 6 I2C Pressure Sensor](P6.md)**         |
 | Python/Sensor         | Ref 4, Ref 5           | **3/29:** Classes/Modules     | **3/31:** Pressure Sensor     |                                           |
 | SPI                   | Ref 6                  | **4/5:** SPI Bus Overview     | **4/7:** SPI HDL Design       | **Project 7 SPI Connected I/O**           |
 | SPI                   | Ref 7 Chapter 1        | **4/12:** SPI HDL Design      | **4/14:** Sensor Memory       |                                           |
