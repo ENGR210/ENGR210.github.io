@@ -61,23 +61,16 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 
 ### Computer Engineering Introduction
 
-| Date  |   Day     | Lecture Topic         |  Project Topic    | 
-| --    |  -----    |   -----               |     -----         | 
-| 1/20  | Wednesday | Intro / Logic Gates   |                   |
-| 1/25  | Monday    | Truth Tables          | Demultiplexer     |
-| 1/27  | Wednesday | Verilog Basics        |                   |
-| 2/01  | Monday    | Addition/Subtraction  | Arith. Logic Unit | 
-| 2/03  | Wednesday | Addition/Subtraction  |                   |
-| 2/08  | Monday    | Latches               | Arith. Logic Unit |
-| 2/10  | Wednesday | Flip Flops            |                   |
-| 2/15  | Monday    | Sequential Logic      | Saturating Counter| 
-| 2/17  | Wednesday | Finite State Machines |                   |
-| 2/22  | Monday    | Finite State Machines | Saturating Counter| 
-| 2/24  | Wednesday | Memory                |                   |
-| 3/01  | Monday    | Timing                | Elevator Controller |
-| 3/03  | Wednesday | Review                |                   |
-| 3/08  | Monday    | Exam I                | Elevator Controller |
-| 3/10  | Wednesday | Raspberry Pi Intro    |                   |
+| Weekly Focus          | Monday                | Wed               | Lab               | 
+| -----                 | ------                | ---               | ---               | 
+| Introduction          | --                    | Intro / Logic Gates| Demultiplexer    |
+| Combinational Logic   | Truth Tables          | Verilog Basics    | Demultiplexer     |  
+| Combinational Logic   | Addition              | Subtraction       | Arith. Logic Unit |
+| State in Hardware     | Latches               | Flip-Flops        | Arith. Logic Unit |
+| Sequential Logic      | Sequential Logic      | FSMs I            | Saturating Counter|
+| Finite State Machines | FSMs II               | FSMs III          | Saturating Counter|
+| Timing / Memory       | Timing / Memory       | Review            | Elev.  Controller |
+| -                     | Exam I                | Raspberry Pi      | Elev.  Controller |
 
 ### Cyber-Physical Systems Introduction
 
