@@ -90,7 +90,7 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 | Raspberry Pi          | Ref 2 Chapter 1-3      | **3/15:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf)   | **3/17:** [Git/Github](lectures/PI_Setup_Git_Intro.pdf)    |                                           |
 | I2C Bus               | Ref 3                  | **3/22:** [I2C Bus](lectures/I2C_Introduction.pdf)      | **3/24:** Wellness Day        | **[Project 6 I2C Pressure Sensor](P6.md)**         |
 | Python/Sensor         | Ref 4, Ref 5           | **3/29:** [Classes/Modules](lectures/Python_Classes.pdf)     | **3/31:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor.pdf)   |                                           |
-| SPI                   | Ref 6                  | **4/5:** [SPI Bus Overview](lectures/SPI_bus.pdf)  | **4/7:** [SPI HDL Design](lectures/SPI_System_Verilog.pdf)       | **Project 7 SPI Connected I/O**      |
+| SPI                   | Ref 6                  | **4/5:** [SPI Bus Overview](lectures/SPI_bus.pdf)  | **4/7:** [SPI HDL Design](lectures/SPI_System_Verilog.pdf)       | **Project 7 GPIO Connected I/O**      |
     | SPI                   | Ref 7 Chapter 1        | **4/12:** [SPI HDL Design](lectures/SPI_SystemVerilog_2.pdf)     | **4/14:** [Networking Overview](lectures/Networking_Overview.pdf) |                                           |
 | Network Interface     | Ref 7 Chapter 2        | **4/19:** MQTT  | **4/21:** Flask               | **Project 8 Network Interface**           |
 | MQTT/Flask            | Ref 7 Chapter 14       | **4/26:** Open Topic               | **4/29:** Open Topic          |                                           |
