@@ -81,7 +81,7 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 4. [Python Classes](https://docs.python.org/3/tutorial/classes.html)
 5. [ST LPS331 Pressure Sensor](docs/LPS331AP.pdf)
 6. [Sparkfun SPI Tutorial](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all)
-7. [Cyber-Physical Systems - a Computational Perspective](https://iucat.iu.edu/catalog/16065139)
+7. [Hands-On MQTT Programming with Python: Work with the Lightweight IoT Protocol in Python](https://iucat.iu.edu/catalog/18457908)
 8. [Dive Into Python 3](https://diveintopython3.net/)
 
 | Weekly Focus          | Reading                | Monday                    | Wed                       | Lab                                       | 
@@ -92,7 +92,7 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 | Python/Sensor         | Ref 4, Ref 5           | **3/29:** [Classes/Modules](lectures/Python_Classes.pdf)     | **3/31:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor.pdf)   |                                           |
 | SPI                   | Ref 6                  | **4/5:** [SPI Bus Overview](lectures/SPI_bus.pdf)  | **4/7:** [SPI HDL Design](lectures/SPI_System_Verilog.pdf)       | **[Project 7 GPIO Connected I/O](P7.md)**      |
     | SPI                   | Ref 7 Chapter 1        | **4/12:** [SPI HDL Design](lectures/SPI_SystemVerilog_2.pdf)     | **4/14:** [Networking Overview](lectures/Networking_Overview.pdf) |                                           |
-| Network Interface     | Ref 7 Chapter 2        | **4/19:** [MQTT](lectures/MQTT.pdf)  | **4/21:** Flask               | **Project 8 Network Interface**           |
-| MQTT/Flask            | Ref 7 Chapter 14       | **4/26:** Open Topic               | **4/29:** Open Topic          |                                           |
+| Network Interface     | Ref 7 Chapter 1       | **4/19:** [MQTT](lectures/MQTT.pdf)  | **4/21:** Flask               | **Project 8 Network Interface**           |
+| MQTT/Flask            | Ref 7 Chapter 2-4     | **4/26:** Open Topic               | **4/29:** Open Topic          |                                           |
 
 **Final Exam Tues 5/4 10:10-12:10**
