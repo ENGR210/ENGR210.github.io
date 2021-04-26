@@ -95,4 +95,4 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 | Network Interface     | Ref 7 Chapter 1       | **4/19:** [MQTT](lectures/MQTT.pdf)  | **4/21:** [Flask](lectures/Flask.pdf)            | **[Project 8 MQTT](P8.md)**           |
 | MQTT/Flask            | Ref 7 Chapter 2-4     | **4/26:** Open Topic               | **4/29:** Open Topic          |                                           |
 
-**Final Exam Tues 5/4 10:10-12:10**
+**Final Exam Wed 5/5 7:45-9:45**
