@@ -93,6 +93,6 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 | SPI                   | Ref 6                  | **4/5:** [SPI Bus Overview](lectures/SPI_bus.pdf)  | **4/7:** [SPI HDL Design](lectures/SPI_System_Verilog.pdf)       | **[Project 7 GPIO Connected I/O](P7.md)**      |
     | SPI                   | Ref 7 Chapter 1        | **4/12:** [SPI HDL Design](lectures/SPI_SystemVerilog_2.pdf)     | **4/14:** [Networking Overview](lectures/Networking_Overview.pdf) |                                           |
 | Network Interface     | Ref 7 Chapter 1       | **4/19:** [MQTT](lectures/MQTT.pdf)  | **4/21:** [Flask](lectures/Flask.pdf)            | **[Project 8 MQTT](P8.md)**           |
-| MQTT/Flask            | Ref 7 Chapter 2-4     | **4/26:** [CPS Wrapup](lectures/CPS_Wrapup.pdf)            | **4/29:** Open Topic          |                                           |
+| MQTT/Flask            | Ref 7 Chapter 2-4     | **4/26:** [CPS Wrapup](lectures/CPS_Wrapup.pdf)            | **4/29:** [Final Exam/Project Wrapup](final)      |                                           |
 
 **Final Exam Wed 5/5 7:45-9:45**
