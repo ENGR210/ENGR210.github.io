@@ -30,7 +30,7 @@ This course provides a strong foundation for modern digital system design using 
 [RED Desktop](https://docs.google.com/document/d/1GuOK0B6Irj_u6LjxMiwTBXgFvxtb-kuTXEFyj7-wQYI)
 -->
 
-## Projects
+## Labs 
 
 <!-- [P0 - Vivado
 Tutorial](https://docs.google.com/document/d/1ydtvsCJaGSUWNMd3byvegsMfa6kRY8q1nOXQNVc5FVE)
@@ -96,3 +96,6 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 | MQTT/Flask            | Ref 7 Chapter 14       | **4/26:** Flask               | **4/29:** Open Topic          |                                           |
 
 **Final Exam Tues 5/4 10:10-12:10**
+
+
+[Old Projects](old_projects.md)
