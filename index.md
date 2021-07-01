@@ -81,7 +81,7 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 4. [Python Classes](https://docs.python.org/3/tutorial/classes.html)
 5. [ST LPS331 Pressure Sensor](docs/LPS331AP.pdf)
 6. [Sparkfun SPI Tutorial](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all)
-7. [Cyber-Physical Systems - a Computational Perspective](https://iucat.iu.edu/catalog/16065139)
+7. [Hands-On MQTT Programming with Python: Work with the Lightweight IoT Protocol in Python](https://iucat.iu.edu/catalog/18457908)
 8. [Dive Into Python 3](https://diveintopython3.net/)
 
 | Weekly Focus          | Reading                | Monday                    | Wed                       | Lab                                       | 
@@ -90,12 +90,11 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 | Raspberry Pi          | Ref 2 Chapter 1-3      | **3/15:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf)   | **3/17:** [Git/Github](lectures/PI_Setup_Git_Intro.pdf)    |                                           |
 | I2C Bus               | Ref 3                  | **3/22:** [I2C Bus](lectures/I2C_Introduction.pdf)      | **3/24:** Wellness Day        | **[Project 6 I2C Pressure Sensor](P6.md)**         |
 | Python/Sensor         | Ref 4, Ref 5           | **3/29:** [Classes/Modules](lectures/Python_Classes.pdf)     | **3/31:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor.pdf)   |                                           |
-| SPI                   | Ref 6                  | **4/5:** [SPI Bus Overview](lectures/SPI_bus.pdf)  | **4/7:** SPI HDL Design       | **Project 7 SPI Connected I/O**           |
-| SPI                   | Ref 7 Chapter 1        | **4/12:** SPI HDL Design      | **4/14:** Sensor Memory       |                                           |
-| Network Interface     | Ref 7 Chapter 2        | **4/19:** Ethernet Interface  | **4/21:** MQTT                | **Project 8 Network Interface**           |
-| MQTT/Flask            | Ref 7 Chapter 14       | **4/26:** Flask               | **4/29:** Open Topic          |                                           |
+| SPI                   | Ref 6                  | **4/5:** [SPI Bus Overview](lectures/SPI_bus.pdf)  | **4/7:** [SPI HDL Design](lectures/SPI_System_Verilog.pdf)       | **[Project 7 GPIO Connected I/O](P7.md)**      |
+    | SPI                   | Ref 7 Chapter 1        | **4/12:** [SPI HDL Design](lectures/SPI_SystemVerilog_2.pdf)     | **4/14:** [Networking Overview](lectures/Networking_Overview.pdf) |                                           |
+| Network Interface     | Ref 7 Chapter 1       | **4/19:** [MQTT](lectures/MQTT.pdf)  | **4/21:** [Flask](lectures/Flask.pdf)            | **[Project 8 MQTT](P8.md)**           |
+| MQTT/Flask            | Ref 7 Chapter 2-4     | **4/26:** [CPS Wrapup](lectures/CPS_Wrapup.pdf)            | **4/29:** [Final Exam/Project Wrapup](final)      |                                           |
 
-**Final Exam Tues 5/4 10:10-12:10**
-
+**Final Exam Wed 5/5 7:45-9:45**
 
 [Old Projects](old_projects.md)
