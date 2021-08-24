@@ -22,4 +22,5 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 
 [Postfix Calculator](https://docs.google.com/document/d/1ApDEDIPBYUmE_dggMogTmvb7Bb1qxodMbxjTzoPfIqs/edit?usp=sharing)
 
-
+[Pipelined
+Calculator](https://docs.google.com/document/d/1ni9N5sKnplQH6h7QXvaNU_EH5wV3uKnQp7ekacclMfs)
