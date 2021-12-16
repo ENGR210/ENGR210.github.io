@@ -1,9 +1,16 @@
-
 # Welcome to ENGR 210 ( CSCI B441 )
 
-Spring 2021 
+Spring 2022
 
-This course provides a strong foundation for modern digital system design using hardware description languages. We start with basics of digital electronics and learn how digital gates are used to build large digital systems. We will practice modern digital system design by using state of the art software tools and implementation of the digital systems on a programmable hardware platform.  At the end of the course, students will be familiar with modern approach for designing digital systems, using hardware description languages along with an appropriate methodology.
+This course provides a strong foundation for modern digital system
+design using hardware description languages. We start with basics of
+digital electronics and learn how digital gates are used to build
+large digital systems. We will practice modern digital system design
+by using state of the art software tools and implementation of the
+digital systems on a programmable hardware platform.  At the end of
+the course, students will be familiar with modern approach for
+designing digital systems, using hardware description languages along
+with an appropriate methodology.
 
 ## Quick Links
 
@@ -58,13 +65,22 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 -->
 
 ## Course Schedule
+| Weekly Focus      | Reading           | Monday                                                             | Wed                                                          | Lab                                            |
+|-------------------|-------------------|--------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------|
+| CPS Intro/UART    |                   | **1/10:** [CPS Introduction](lectures/CPS_Introduction.pdf)        | **1/12:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf) | **Project 0 Raspberry PI Setup**               |
+| GPIO/Scope        |                   | **1/17:** MLK Day                                                  | **1/19:** Electronics/GPIO/LED                               | **Project 1 UART Controlled LED**              |
+| SPI Bus           |                   | **1/24:** [SPI Bus Overview](lectures/SPI_bus.pdf)                 | **1/26:** SPI Flash Memory                                   | **Project 2 SPI Flash Memory**                 |
+| I2C Bus           |                   | **1/31:** [I2C Bus Overview](lectures/I2C_Introduction.pdf)        | **2/2:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor.pdf)| **Project 3 I2C Pressure/Temperature Sensor|
+| Networking        |                   | **2/7:**  Networking Overview                                      | **2/9:** [Flask](lectures/Flask.pdf)                         | **Project 4 Flask Web Server**                 |
+| Web Server        |                   | **2/14:** Matplotlib                                               | **2/16:** [CPS Wrapup](lectures/CPS_Wrapup.pdf)              |                                                |
+| Evaluation        |                   | **2/21:** Exam 1                                                   | **2/23:** CE Introduction                                    |                                                |
 
 ### Computer Engineering Introduction
 
 | Weekly Focus          | Monday                | Wed               | Lab               | 
 | -----                 | ------                | ---               | ---               | 
 | Introduction          | --                    | Intro / Logic Gates| Demultiplexer    |
-| Combinational Logic   | Truth Tables          | Verilog Basics    | Demultiplexer     |  
+| Combinational Logic   | Truth Tables          | Verilog Basics    | Demultiplexer     | 
 | Combinational Logic   | Addition              | Subtraction       | Arith. Logic Unit |
 | State in Hardware     | Latches               | Flip-Flops        | Arith. Logic Unit |
 | Sequential Logic      | Sequential Logic      | FSMs I            | Saturating Counter|
@@ -74,26 +90,6 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 
 ### Cyber-Physical Systems Introduction
 
-#### Reading References:
-1. [Introduction to Embedded Systems - A Cyber-Physical Systems Approach](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf)
-2. [Pro Git Book](https://git-scm.com/book/en/v2)
-3. [Sparkfun I2C Tutorial](https://learn.sparkfun.com/tutorials/i2c/all)
-4. [Python Classes](https://docs.python.org/3/tutorial/classes.html)
-5. [ST LPS331 Pressure Sensor](docs/LPS331AP.pdf)
-6. [Sparkfun SPI Tutorial](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all)
-7. [Hands-On MQTT Programming with Python: Work with the Lightweight IoT Protocol in Python](https://iucat.iu.edu/catalog/18457908)
-8. [Dive Into Python 3](https://diveintopython3.net/)
-
-| Weekly Focus          | Reading                | Monday                    | Wed                       | Lab                                       | 
-| -----                 | ------                 | ------                    | ---                       | ---                                       | 
-| Exam/CPS Introduction | Ref 1 Chapter 1        | **3/8:** Exam 1               | **3/10:** [CPS Introduction](lectures/CPS_Introduction.pdf)   | **[Project 5 Raspberry PI Setup](P5.md)** |
-| Raspberry Pi          | Ref 2 Chapter 1-3      | **3/15:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf)   | **3/17:** [Git/Github](lectures/PI_Setup_Git_Intro.pdf)    |                                           |
-| I2C Bus               | Ref 3                  | **3/22:** [I2C Bus](lectures/I2C_Introduction.pdf)      | **3/24:** Wellness Day        | **[Project 6 I2C Pressure Sensor](P6.md)**         |
-| Python/Sensor         | Ref 4, Ref 5           | **3/29:** [Classes/Modules](lectures/Python_Classes.pdf)     | **3/31:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor.pdf)   |                                           |
-| SPI                   | Ref 6                  | **4/5:** [SPI Bus Overview](lectures/SPI_bus.pdf)  | **4/7:** [SPI HDL Design](lectures/SPI_System_Verilog.pdf)       | **[Project 7 GPIO Connected I/O](P7.md)**      |
-    | SPI                   | Ref 7 Chapter 1        | **4/12:** [SPI HDL Design](lectures/SPI_SystemVerilog_2.pdf)     | **4/14:** [Networking Overview](lectures/Networking_Overview.pdf) |                                           |
-| Network Interface     | Ref 7 Chapter 1       | **4/19:** [MQTT](lectures/MQTT.pdf)  | **4/21:** [Flask](lectures/Flask.pdf)            | **[Project 8 MQTT](P8.md)**           |
-| MQTT/Flask            | Ref 7 Chapter 2-4     | **4/26:** [CPS Wrapup](lectures/CPS_Wrapup.pdf)            | **4/29:** [Final Exam/Project Wrapup](final)      |                                           |
 
 **Final Exam Wed 5/5 7:45-9:45**
 
