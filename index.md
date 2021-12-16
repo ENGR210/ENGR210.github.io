@@ -65,6 +65,7 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 -->
 
 ## Course Schedule
+
 | Weekly Focus      | Reading           | Monday                                                             | Wed                                                          | Lab                                            |
 |-------------------|-------------------|--------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------|
 | CPS Intro/UART    |                   | **1/10:** [CPS Introduction](lectures/CPS_Introduction.pdf)        | **1/12:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf) | **Project 0 Raspberry PI Setup**               |
