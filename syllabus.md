@@ -1,6 +1,6 @@
 # ENGR 210 / CSCI B441 Syllabus
 
-Spring, 2021
+Version: SP'2022.1
 
 ## Description
 
@@ -166,6 +166,4 @@ We will post a Canvas announcement in the case of any critical corrections or
 clarifications. It is your responsibility to ensure you are able to receive
 Canvas announcements.
 
-----
-Version: 2021.1
 
