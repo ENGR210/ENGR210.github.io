@@ -66,6 +66,8 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 
 ## Course Schedule
 
+### Cyber-Physical Systems Introduction
+
 | Weekly Focus      | Reading           | Monday                                                             | Wed                                                          | Lab                                            |
 |-------------------|-------------------|--------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------|
 | CPS Intro/UART    |                   | **1/10:** [CPS Introduction](lectures/CPS_Introduction.pdf)        | **1/12:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf) | **Project 0 Raspberry PI Setup**               |
@@ -88,10 +90,5 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 | Finite State Machines | FSMs II               | FSMs III          | Saturating Counter|
 | Timing / Memory       | Timing / Memory       | Review            | Elev.  Controller |
 | -                     | Exam I                | Raspberry Pi      | Elev.  Controller |
-
-### Cyber-Physical Systems Introduction
-
-
-**Final Exam Wed 5/5 7:45-9:45**
 
 [Old Projects](old_projects.md)
