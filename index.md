@@ -16,8 +16,6 @@ with an appropriate methodology.
 
 ### [Syllabus](syllabus.md)
 
-### [Lecture Slides](http://github.com/engr210/lecture_slides)
-
 ### [Downloads](http://github.com/engr210/downloads) 
 
 ### [Autograder](https://autograder.sice.indiana.edu) 
@@ -66,29 +64,27 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 
 ## Course Schedule
 
-### Cyber-Physical Systems Introduction
+| Weekly Focus      | Reading | Monday                                                          | Wed                                                               | Lab                                           |
+|-------------------|---------|-----------------------------------------------------------------|--------------------------------------------------------------     |-----------------------------------------------|
+| CPS Intro/UART    |         | **1/10:** [CPS Introduction](lectures/CPS_Introduction.pdf)     | **1/12:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf)      | **Project 0 Raspberry PI Setup**              |
+| GPIO/Scope        |         | **1/17:** MLK Day                                               | **1/19:** Electronics/GPIO/LED                                    | **Project 1 UART Controlled LED**             |
+| SPI Bus           |         | **1/24:** [SPI Bus Overview](lectures/SPI_bus.pdf)              | **1/26:** SPI Flash Memory                                        | **Project 2 SPI Flash Memory**                |
+| I2C Bus           |         | **1/31:** [I2C Bus Overview](lectures/I2C_Introduction.pdf)     | **2/2:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor.pdf) | **Project 3 I2C Pressure/Temperature Sensor** |
+| Networking        |         | **2/7:**  Networking Overview                                   | **2/9:** [Flask](lectures/Flask.pdf)                              | **Project 4 Flask Web Server**                |
+| Web Server        |         | **2/14:** Matplotlib                                            | **2/16:** [CPS Wrapup](lectures/CPS_Wrapup.pdf)                   | **Demultiplexer**                             |
+| Evaluation        |         | **2/21:** Exam 1                                                | **2/23:** [CE Intro/ Logic](lectures/00_Logic_Gates.pdf)          | **ALU TB**                                    |
+| CPE Intro/Logic   |         | **2/28:** [Truth Tables](lectures/01_Truth_Tables.pdf)          | **3/2:** [Verilog Basics](lectures/02_Verilog_Basics.pdf)         | **ALU**                                       | 
+| Combinational Logic|        | **3/7:**  [Testbenches](lectures/03_Testbenches.pdf)            | **3/9:** [Math I](lectures/04_Math_I.pdf)                         | **Saturating Counter TB**                     |
+|                   |         | **3/14:** Spring Break                                          | **3/16:** Spring Break                                            |                                               |
+| Sequential Logic  |         | **3/14:** [Math II](lectures/05_Math_II.pdf)                    | **3/16:** [Latches](lectures/06_Latches.pdf)                      | **Saturating Counter**                        |
+| State Machines    |         | **3/21:** [Flops](lectures/07_Flops.pdf)                        | **3/23:** [Sequential Logic](lectures/08_Sequential.pdf)          | **Elevator Controller TB**                    |
+| Timing            |         | **3/28:** [FSMs I](lectures/09_FSM_I.pdf)                       | **3/31:** [FSMs II](lectures/10_FSM_II.pdf)                       | **Elevator Controller**                       |
+|                   |         | **4/4:** [FSMs III](lectures/11_FSM_III.pdf)                    | **4/6:** [Timing](lectures/12_Timing.pdf)                         | **SPI Interface**                             |
+|                   |         | **4/11:** [SPI I](lectures/13_SPI_I.pdf)                        | **4/13:** [SPI II](lectures/14_SPI_II.pdf)                        | **SPI Elev. Controller**                      |
+|                   |         | **4/18:** [MMIO I](lectures/15_MMIO_I.pdf)                      | **4/20:** [MMIO II](lectures/16_MMIO_II.pdf)                      | **Flask/SPI Elev. Controller**                |
+|                   |         | **4/25:** Overflow                                              | **4/27:** [Review](lectures/18_Review.pdf)                        |                                               |
+|                   |         | **4/XX:** Final Exam                                            |                                                                   |                                               |
 
-| Weekly Focus      | Reading           | Monday                                                             | Wed                                                          | Lab                                            |
-|-------------------|-------------------|--------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------|
-| CPS Intro/UART    |                   | **1/10:** [CPS Introduction](lectures/CPS_Introduction.pdf)        | **1/12:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf) | **Project 0 Raspberry PI Setup**               |
-| GPIO/Scope        |                   | **1/17:** MLK Day                                                  | **1/19:** Electronics/GPIO/LED                               | **Project 1 UART Controlled LED**              |
-| SPI Bus           |                   | **1/24:** [SPI Bus Overview](lectures/SPI_bus.pdf)                 | **1/26:** SPI Flash Memory                                   | **Project 2 SPI Flash Memory**                 |
-| I2C Bus           |                   | **1/31:** [I2C Bus Overview](lectures/I2C_Introduction.pdf)        | **2/2:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor.pdf)| **Project 3 I2C Pressure/Temperature Sensor** |
-| Networking        |                   | **2/7:**  Networking Overview                                      | **2/9:** [Flask](lectures/Flask.pdf)                         | **Project 4 Flask Web Server**                 |
-| Web Server        |                   | **2/14:** Matplotlib                                               | **2/16:** [CPS Wrapup](lectures/CPS_Wrapup.pdf)              |                                                |
-| Evaluation        |                   | **2/21:** Exam 1                                                   | **2/23:** CE Introduction                                    |                                                |
 
-### Computer Engineering Introduction
-
-| Weekly Focus          | Monday                | Wed               | Lab               | 
-| -----                 | ------                | ---               | ---               | 
-| Introduction          | --                    | Intro / Logic Gates| Demultiplexer    |
-| Combinational Logic   | Truth Tables          | Verilog Basics    | Demultiplexer     | 
-| Combinational Logic   | Addition              | Subtraction       | Arith. Logic Unit |
-| State in Hardware     | Latches               | Flip-Flops        | Arith. Logic Unit |
-| Sequential Logic      | Sequential Logic      | FSMs I            | Saturating Counter|
-| Finite State Machines | FSMs II               | FSMs III          | Saturating Counter|
-| Timing / Memory       | Timing / Memory       | Review            | Elev.  Controller |
-| -                     | Exam I                | Raspberry Pi      | Elev.  Controller |
 
 [Old Projects](old_projects.md)
