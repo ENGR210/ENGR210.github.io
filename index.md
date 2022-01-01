@@ -83,7 +83,7 @@ Timer](https://docs.google.com/document/d/1HnWBiIqMQZvTv-P2DLUMM38fX2hg8FhBwA005
 | SPI Implementation|         | **4/11:** [SPI I](lectures/13_SPI_I.pdf)                        | **4/13:** [SPI II](lectures/14_SPI_II.pdf)                        | **SPI Elev. Controller**                      |
 | Memory Interfaces |         | **4/18:** [MMIO I](lectures/15_MMIO_I.pdf)                      | **4/20:** [MMIO II](lectures/16_MMIO_II.pdf)                      | **Flask/SPI Elev. Controller**                |
 | Review            |         | **4/25:** Overflow                                              | **4/27:** [Review](lectures/18_Review.pdf)                        |                                               |
-|                   |         | **4/XX:** Final Exam                                            |                                                                   |                                               |
+|                   |         | **5/06:** Final Exam @ 12.40-2:40pm                         |                                                                   |                                               |
 
 
 
