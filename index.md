@@ -18,7 +18,7 @@ with an appropriate methodology.
 
 ### [Downloads](http://github.com/engr210/downloads) 
 
-### [Autograder](https://autograder.sice.indiana.edu) 
+### [Autograder](https://autograder.luddy.indiana.edu) 
 
 ### [Canvas](https://iu.instructure.com/courses/1947790) _(registered students only)_
 
