@@ -22,9 +22,7 @@ with an appropriate methodology.
 
 ### [Canvas](https://iu.instructure.com/courses/1947790) _(registered students only)_
 
-<!--
-### [Slack](https://engr210-sp21.slack.com)
--->
+### [Zoom](https://iu.zoom.us/j/83005621515) 
 
 #### [Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)
 
