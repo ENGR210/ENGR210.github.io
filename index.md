@@ -41,7 +41,7 @@ with an appropriate methodology.
 | Weekly Focus      | Reading | Monday                                                          | Wed                                                               | Lab                                           |
 |-------------------|---------|-----------------------------------------------------------------|--------------------------------------------------------------     |-----------------------------------------------|
 | CPS Intro/UART    |         | **1/10:** [CPS Introduction](lectures/CPS_Introduction.pdf)     | **1/12:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf)      | [**Project 0 Raspberry PI Setup**](P0)           |
-| GPIO/Scope        |         | **1/17:** MLK Day                                               | **1/19:** Electronics/GPIO/LED                                    | **Project 1 UART Controlled LED**             |
+| GPIO/Scope        |         | **1/17:** MLK Day                                               | **1/19:** Electronics/GPIO/LED                                    | [**Project 1 UART Controlled LED**](P1)             |
 | SPI Bus           |         | **1/24:** [I2C Bus Overview](lectures/I2C_Introduction.pdf)     | **1/26:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor.pdf)                                       | **Project 2 I2C Pressure/Temperature Sensor**                |
 | I2C Bus           |         | **1/31:** [SPI Bus Overview](lectures/SPI_bus.pdf)     | **2/2:** Accelerometer  | **Project 3 Project 2 SPI Flash Memory** |
 | Networking        |         | **2/7:**  Networking Overview                                   | **2/9:** [Flask](lectures/Flask.pdf)                              | **Project 4 Flask Web Server**                |
