@@ -1,6 +1,6 @@
 # ENGR 210 / CSCI B441 Syllabus
 
-Version: SP'2022.1
+Version: SP'2022.2
 
 ## Description
 
@@ -73,15 +73,15 @@ Other materials will be provided on the course website.
 
 ## Topics Covered
 
-* Sequential logic
-  * Boolean logic (review)
+* Combinational Logic
+  * Boolean logic / Truth Tables (review)
   * Encoders / decoders
   * Multiplexers / demultiplexers
-  * Adders / fast adders
-* Combinational Logic
+  * Adders 
+* Sequential Logic
   * Latches 
   * Flip flops
-* State machines
+  * State machines
 * Communication 
   * Hardware Buses
   * Interfacing
