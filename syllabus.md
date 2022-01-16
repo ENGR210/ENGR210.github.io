@@ -27,7 +27,7 @@ Bryce Himebaugh\
 bhimebau@iu.edu\
 4146 Luddy Hall\
 Office Hours:
- - Monday / Wednesday 2:30P - 3:30P in IF4146
+ - Monday / Wednesday 3:00P - 4:00P in IF4146
  
 ## TAs
 
