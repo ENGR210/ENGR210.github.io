@@ -26,8 +26,7 @@ with an appropriate methodology.
 
 #### [Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)
 
-#### [Vivado Tutorial](https://docs.google.com/document/d/1ydtvsCJaGSUWNMd3byvegsMfa6kRY8q1nOXQNVc5FVE)
-
+#### [Vivado Tutorial](https://docs.google.com/document/d/1OZPhRJoNW6variLEV1iyCQ5HWxGvJrfiC3c3eMZx8vo)
 
 
 <!--
@@ -43,7 +42,7 @@ with an appropriate methodology.
 | I2C and SPI Bus   |         | **1/24:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor.pdf)   | **1/26:** [SPI Bus Overview](lectures/SPI_bus.pdf)           | **Project 2 SPI Accelerometer**               |
 | SPI/Networking    |         | **1/31:** Accelerometer                                         | **2/2:** Networking Overview                                      | **Project 3 Flask Web Server** |
 | Networking        |         | **2/7:**  [Flask](lectures/Flask.pdf)                           | **2/9:** Redis/matplotlib                                         | **Project 3 Continued**                |
-| Web Server        |         | **2/14:** [CPS Wrapup](lectures/CPS_Wrapup.pdf)                 | **2/16:** Exam Review                                             | **[P5 Demultiplexer](https://docs.google.com/document/d/1OZPhRJoNW6variLEV1iyCQ5HWxGvJrfiC3c3eMZx8vo)**                             |
+| Web Server        |         | **2/14:** [CPS Wrapup](lectures/CPS_Wrapup.pdf)                 | **2/16:** Exam Review                                             | **[P5 Demultiplexer](https://docs.google.com/document/d/1o02Y2rexq2IHROQaUYS6GD_TwUbfTaikeP8ysp6FJi8)**                             |
 | Evaluation        |         | **2/21:** Exam 1                                                | **2/23:** [CE Intro/ Logic](lectures/00_Logic_Gates.pdf)          | **[P6 ALU](https://docs.google.com/document/d/1uhQR3LDZLIDAheTqNy58HJ456uEFfEh4IH7j1ZReyHM)**                                    |
 | CPE Intro/Logic   |         | **2/28:** [Truth Tables](lectures/01_Truth_Tables.pdf)          | **3/2:** [Verilog Basics](lectures/02_Verilog_Basics.pdf)         | **[P6 ALU](https://docs.google.com/document/d/1uhQR3LDZLIDAheTqNy58HJ456uEFfEh4IH7j1ZReyHM)**                                       | 
 | Combinational Logic|        | **3/7:**  [Testbenches](lectures/03_Testbenches.pdf)            | **3/9:** [Math I](lectures/04_Math_I.pdf)                         | **[P7 Saturating Counter](https://docs.google.com/document/d/1JLgk0VguSrih_h3BsMyMtInTJ4Qrl--Hv2jkxK4chZw)**                     |
