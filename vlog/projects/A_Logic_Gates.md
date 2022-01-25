@@ -22,13 +22,11 @@
 
 
 ### Board/Part Number
+
+The Basys3 uses Xilinx Part Number: 
+
 <div id="partNum">
 XC7A35T-1CPG236C
-</div>
-
-### RDT&E Machines
-<div id="blk">
-The solution is to put your Vivado Project folder in the "CraneDev" directory. Vivado will not work correctly if your working files are not in the "CraneDev" directory.
 </div>
 
 ## Overview <a name="overview"></a>
