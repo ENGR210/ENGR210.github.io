@@ -303,8 +303,10 @@ end
 
 ## Assignment Description <a name="assignment-description"></a>
 
-For this assignment, you will need to create a 3-8 decoder, then use it as a submodule to create
-a 3-8 demultiplexer. You will also need to create a corresponding testbench.
+For this assignment, you will 
+    - create a 3-8 decoder
+    - use your decoder as a submodule in a 3-8 demultiplexer
+    - create corresponding testbenches
 
 ![Three To Eight Demultiplexer](../images/Demultiplexer/three_to_eight_demultiplexer.png)
 
