@@ -24,6 +24,8 @@ Demo Due:   FIXME
     - [Testbenches](#testbenches)
     - [Constraints](#constraints)
 4. [Evaluation](#evaluation)
+    - [Autograder](#autograder)
+    - [Demonstration](#demonstration)
 
 ## Overview <a name="overview"></a>
 
@@ -508,6 +510,7 @@ the various switches and leds needed.
 
 ## Evaluation <a name="evaluation"></a>
 
+### Autograder <a name="autograder"></a>
 <div id="urlLink">
    <a href="https://autograder.sice.indiana.edu"> Autograder </a> 
 </div>
@@ -534,6 +537,11 @@ To submit your code,
     ![Autograder My Submissions](../images/Demultiplexer/autograder_my_submissions.png)
 
 - This page will display the score for each of the modules that are tested as well as an overall score.  
+
+###Demonstration (30%) <a name="demonstration"></a>
+
+Program your FPGA with your demultiplexer and demonstrate your working system to the TA.  You will not receive full points until the TA has approved your demonstration.  
+
 
 ----
 Version:  E210 SP'2022.0
