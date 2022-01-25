@@ -39,7 +39,7 @@ with an appropriate methodology.
 |-------------------|---------|-----------------------------------------------------------------|--------------------------------------------------------------     |-----------------------------------------------|
 | CPS Intro/UART    |         | **1/10:** [CPS Introduction](lectures/CPS_Introduction.pdf)     | **1/12:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf)      | [**Project 0 Raspberry PI Setup**](P0)           |
 | I2C Bus           |         | **1/17:** MLK Day                                               | **1/19:** [I2C Bus Overview](lectures/I2C_Introduction.pdf)       | [**Project 1 I2C Pressure/Temperature Sensor**](P1) |
-| I2C and SPI Bus   |         | **1/24:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor.pdf)   | **1/26:** [SPI Bus Overview](lectures/SPI_bus.pdf)           | **Project 2 SPI Accelerometer**               |
+| I2C and SPI Bus   |         | **1/24:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor.pdf)   | **1/26:** [SPI Bus Overview](lectures/SPI_bus.pdf)           | [**Project 2 SPI Accelerometer**](P2)               |
 | SPI/Networking    |         | **1/31:** Accelerometer                                         | **2/2:** Networking Overview                                      | **Project 3 Flask Web Server** |
 | Networking        |         | **2/7:**  [Flask](lectures/Flask.pdf)                           | **2/9:** Redis/matplotlib                                         | **Project 3 Continued**                |
 | Web Server        |         | **2/14:** [CPS Wrapup](lectures/CPS_Wrapup.pdf)                 | **2/16:** Exam Review                                             | **[P5 Demultiplexer](vlog/projects/B_Demultiplexer)**                             |
