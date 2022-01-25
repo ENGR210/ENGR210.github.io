@@ -2,6 +2,7 @@
 
 <div id="dueDates">
     Autograder Due:  FIXME
+
     Demo Due:   FIXME
 </div>
 
