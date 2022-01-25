@@ -1,5 +1,8 @@
 # Project 1: Demultiplexer
 
+## Autograder Due: 
+## Demo Due:  
+
 <link rel="stylesheet" href="style.css">
 
 ## Table of Contents
@@ -500,12 +503,12 @@ the various switches and leds needed.
 ## Evaluation <a name="evaluation"></a>
 
 <div id="urlLink">
-   <a href="https://ag.lukefahr.org/web/project/2"> Autograder </a> 
+   <a href="https://autograder.sice.indiana.edu"> Autograder </a> 
 </div>
 
 To submit your code, 
 - Follow the above link to the Autograder website.  
-- Log on using **Any @gmail.com email address** 
+- Log on using your **@IU.edu email address** 
 - You should now be at a page that looks something like this: 
 
     ![Autograder Homepage](../images/Demultiplexer/autograder_homepage.png)
@@ -527,4 +530,4 @@ To submit your code,
 - This page will display the score for each of the modules that are tested as well as an overall score.  
 
 ----
-Version:  2022.0
+Version:  E210 SP'2022.0
