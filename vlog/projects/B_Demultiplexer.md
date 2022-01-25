@@ -542,7 +542,7 @@ To submit your code,
 
 - This page will display the score for each of the modules that are tested as well as an overall score.  
 
-###Demonstration (30%) <a name="demonstration"></a>
+### Demonstration (30%) <a name="demonstration"></a>
 
 Program your FPGA with your demultiplexer and demonstrate your working system to the TA.  You will not receive full points until the TA has approved your demonstration.  
 
