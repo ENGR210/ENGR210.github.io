@@ -510,6 +510,10 @@ the various switches and leds needed.
 
 ## Evaluation <a name="evaluation"></a>
 
+The evaluation will have two steps: 
+ 1. Submit your source code and testbench to the autograder.  
+ 2. Synthesize your design, download it to the FPGA and do a demonstration for the TA.
+
 ### Autograder <a name="autograder"></a>
 <div id="urlLink">
    <a href="https://autograder.sice.indiana.edu"> Autograder </a> 
