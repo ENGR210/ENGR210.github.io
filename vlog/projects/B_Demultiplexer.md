@@ -1,7 +1,7 @@
 # Project 1: Demultiplexer
 
 <div id="dueDates">
-Autograder Due:  FIXME\\
+Autograder Due:  FIXME <br> 
 Demo Due:   FIXME
 </div>
 
