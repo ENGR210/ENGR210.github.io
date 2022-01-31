@@ -34,17 +34,17 @@ Office Hours:
 Malintha Fernando\
 ccfernan@iu.edu\
 Office Hours:
- - TBD
+ - Wednesday 6:15P - 7:15P, Friday 3:30p - 4:30p in IF4111
 
 Nicole Miller\
 ncm1@iu.edu\
 Office Hours:
- - TBD
+ - Monday / Wednesday 6:00P - 7:00P in IF4111
 
 Matteo Vidali\
 mvidali@iu.edu\
 Office Hours:
- - TBD
+ - Tuesday / Thursday 11:00am - 1:00pm in IF4111
 
 ## Schedule
 
