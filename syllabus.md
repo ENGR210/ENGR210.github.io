@@ -44,7 +44,7 @@ Office Hours:
 Matteo Vidali\
 mvidali@iu.edu\
 Office Hours:
- - Tuesday / Thursday 11:00am - 1:00pm in IF4111
+ - Wednesday 6:15P - 7:15P, Thursday 2p - 3p in IF4111
 
 ## Schedule
 
