@@ -41,7 +41,7 @@ with an appropriate methodology.
 | I2C Bus | | **1/17:** MLK Day | **1/19:** [I2C Bus Overview](lectures/I2C_Introduction.pdf) | [**Project 1 I2C Pressure/Temperature Sensor**](P1) |
 | I2C and SPI Bus | | **1/24:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor_SP22.pdf) | **1/26:** [SPI Bus Overview](lectures/SPI_bus_SP22.pdf) | [**Project 2 SPI Accelerometer**](P2) |
 | SPI/Networking | | **1/31:** [Accelerometer](lectures/Accelerometer_SP22.pdf) | **2/2:** [MQTT](lectures/MQTT_SP22.pdf) | [**Project 3 MQTT Sensor Data Server**](P3) |
-| Networking | | **2/7:** GPIO | **2/9:** TBD | **Project 4 Sensor LED Output** |
+| Networking | | **2/7:** [GPIO/LED](lectures/GPIO_LED.pdf) | **2/9:** TBD | **Project 4 Sensor LED Output** |
 | Web Server | | **2/14:** [CPS Wrapup](lectures/CPS_Wrapup.pdf) | **2/16:** Exam Review | **[P5 Demultiplexer](vlog/projects/B_Demultiplexer)** |
 | Evaluation        |         | **2/21:** Exam 1                                                | **2/23:** [CE Intro/ Logic](lectures/00_Logic_Gates.pdf)          | **[P6 ALU](https://docs.google.com/document/d/1uhQR3LDZLIDAheTqNy58HJ456uEFfEh4IH7j1ZReyHM)**                                    |
 | CPE Intro/Logic   |         | **2/28:** [Truth Tables](lectures/01_Truth_Tables.pdf)          | **3/2:** [Verilog Basics](lectures/02_Verilog_Basics.pdf)         | **[P6 ALU](https://docs.google.com/document/d/1uhQR3LDZLIDAheTqNy58HJ456uEFfEh4IH7j1ZReyHM)**                                       | 
