@@ -417,31 +417,23 @@ names should line up properly by default.
 
 ## Evaluation <a name="evaluation"></a>
 
+
+The evaluation will have two steps, first submission of your source code and testbench to the autograder.  Second, you will need to synthesize your design, download it to the FPGA and do a demonstration for the TA.
+
+### Autograder (70%)
+
 <div id="urlLink">
    <a href="https://autograder.sice.indiana.edu"> Autograder </a> 
 </div>
 
-To submit your code, 
-- Follow the above link to the Autograder website.  
-- Log on using your **@IU.edu email address** 
-- You should now be at a page that looks something like this
-
-![Autograder Homepage](../images/ALU/autograder_homepage.png)
-
-- Drag or upload the files listed below into the submission window. These files can be found under the sources (`.srcs`)
-  subfolder in your Vivado project's build folder.
+Log on to autograder link above and submit your code as per previous projects.  
 
 - You should submit:
     - `alu.sv`
     - `alu_tb.sv`
     - `top.sv`
 
-- Click Submit
-- You should now be taken to the `My Submissions` window, where the results of your submission will be shown shortly. It
-  should look something like this:
+### Demonstration (30%)
 
-![Autograder My Submissions](../images/ALU/autograder_my_submissions.png)
-
-- This page will display the score for each of the modules that are tested as well as an overall score.
-
+Program your FPGA with your demultiplexer and demonstrate your working system to the TA.  You will not receive full points until the TA has approved your demonstration.
 
