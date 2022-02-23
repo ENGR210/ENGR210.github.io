@@ -422,9 +422,9 @@ names should line up properly by default.
 </div>
 
 To submit your code, 
-    - Follow the above link to the Autograder website.  
-    - Log on using your **@IU.edu email address** 
-    - You should now be at a page that looks something like this
+- Follow the above link to the Autograder website.  
+- Log on using your **@IU.edu email address** 
+- You should now be at a page that looks something like this
 
 ![Autograder Homepage](../images/ALU/autograder_homepage.png)
 
