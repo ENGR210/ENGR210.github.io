@@ -426,7 +426,7 @@ To submit your code,
     - Log on using your **@IU.edu email address** 
     - You should now be at a page that looks something like this
 
-![Autograder Homepage](../images/p2/autograder_homepage.png)
+![Autograder Homepage](../images/ALU/autograder_homepage.png)
 
 - Drag or upload the files listed below into the submission window. These files can be found under the sources (`.srcs`)
   subfolder in your Vivado project's build folder.
@@ -440,7 +440,7 @@ To submit your code,
 - You should now be taken to the `My Submissions` window, where the results of your submission will be shown shortly. It
   should look something like this:
 
-![Autograder My Submissions](../images/p2/autograder_my_submissions.png)
+![Autograder My Submissions](../images/ALU/autograder_my_submissions.png)
 
 - This page will display the score for each of the modules that are tested as well as an overall score.
 
