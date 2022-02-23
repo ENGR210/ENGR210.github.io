@@ -1,8 +1,7 @@
-# Project 1: Demultiplexer
+# Project 5: Demultiplexer
 
 <div id="dueDates">
-Autograder Due:  FIXME <br> 
-Demo Due:   FIXME
+Autograder/Demo Due:  4:30 PM Friday, March 4th, 2022<br> 
 </div>
 
 
