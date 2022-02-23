@@ -195,20 +195,18 @@ declared as logic or the older reg. Also, notice the use of the **non-blocking a
 <div id="dueDates">
 
 `always_comb` is for combinational logic and
-ONLY USES BLOCKING ASSIGNMENTS ( = )
+ONLY USES BLOCKING ASSIGNMENTS ( = ) <br>
 
 `always_ff @(posedge ...)` is for sequential logic and
-ONLY USES NON-BLOCKING ASSIGNMENTS ( <= )
+ONLY USES NON-BLOCKING ASSIGNMENTS ( <= ) <br>
 
-</div>
-
-<div id="dueDates">
 DEBUGGING PAIN WILL RESULT IF YOU BREAK THE ABOVE RULE!!!
 </div>
 
 Verilog being an odd language, the tools will not check for this, and are more than happy to let
 you do whatever you want. Then you won’t understand why your FPGA does not behave as
-expected. <b>If you get a warning that says "inferring latch", you broke the rule!</b>
+expected. <b> <div id="red"> If you get a warning that says "inferring latch",
+you broke the rule!</div> </b>
 
 There are several other always blocks in Verilog. For now, we recommend you stick with the
 two above.
@@ -420,13 +418,13 @@ names should line up properly by default.
 ## Evaluation <a name="evaluation"></a>
 
 <div id="urlLink">
-    <a href="https://ag.lukefahr.org/web/project/3">Autograder</a>
+   <a href="https://autograder.sice.indiana.edu"> Autograder </a> 
 </div>
 
-To submit your code,
-   - Follow the above link to the Autograder website.
-   - Log on using <b>Any @gmail.com email address</b>
-   - You should now be at a page that looks something like this
+To submit your code, 
+    - Follow the above link to the Autograder website.  
+    - Log on using your **@IU.edu email address** 
+    - You should now be at a page that looks something like this
 
 ![Autograder Homepage](../images/p2/autograder_homepage.png)
 
