@@ -205,8 +205,8 @@ DEBUGGING PAIN WILL RESULT IF YOU BREAK THE ABOVE RULE!!!
 
 Verilog being an odd language, the tools will not check for this, and are more than happy to let
 you do whatever you want. Then you won’t understand why your FPGA does not behave as
-expected. <b> <div id="red"> If you get a warning that says "inferring latch",
-you broke the rule!</div> </b>
+expected. <div id="redFont"> If you get a warning that says "inferring latch",
+you broke the rule!</div> 
 
 There are several other always blocks in Verilog. For now, we recommend you stick with the
 two above.
