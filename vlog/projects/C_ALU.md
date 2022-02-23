@@ -192,15 +192,19 @@ This is what makes this block into a flip flop. As Q and Qbar can hold state, th
 declared as logic or the older reg. Also, notice the use of the **non-blocking assignment
 (<=)**. We’ll discuss this more in class, but the rule is:
 
-#### always_comb is for combinational logic and
-#### ONLY USES BLOCKING ASSIGNMENTS ( = )
+<div id="dueDates">
 
+`always_comb` is for combinational logic and
+ONLY USES BLOCKING ASSIGNMENTS ( = )
 
-#### always_ff @(posedge ...) is for sequential logic and
-#### ONLY USES NON-BLOCKING ASSIGNMENTS ( <= )
+`always_ff @(posedge ...)` is for sequential logic and
+ONLY USES NON-BLOCKING ASSIGNMENTS ( <= )
 
-## DEBUGGING PAIN WILL RESULT IF YOU
-## BREAK THE ABOVE RULE!!!
+</div>
+
+<div id="dueDates">
+DEBUGGING PAIN WILL RESULT IF YOU BREAK THE ABOVE RULE!!!
+</div>
 
 Verilog being an odd language, the tools will not check for this, and are more than happy to let
 you do whatever you want. Then you won’t understand why your FPGA does not behave as
