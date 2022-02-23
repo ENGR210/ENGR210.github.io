@@ -5,7 +5,6 @@ Autograder/Demo Due:  4:30 PM Friday, March 4th, 2022<br>
 </div>
 
 
-
 <link rel="stylesheet" href="style.css">
 
 ## Table of Contents
