@@ -5,7 +5,6 @@ Autograder/Demo Due:  4:30 PM Friday, March 4th, 2022<br>
 </div>
 
 
-
 <link rel="stylesheet" href="style.css">
 
 ## Table of Contents
@@ -45,9 +44,8 @@ sometimes called a " one-hot ", as only one of the outputs is '1' (or hot) at a 
 
 The truth table for the decoder is shown below.
 
-| Inputs | Outputs |
-| ----------- | ----------- |
-| a | b | d0 | d1 | d2 | d3 |
+
+| *a*   | *b* | *d0* | *d1* | *d2* | *d3* |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 0 | 1 | 0 | 1 | 0 | 0 |

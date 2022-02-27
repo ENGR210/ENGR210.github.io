@@ -26,7 +26,7 @@
 The Basys3 uses Xilinx Part Number: 
 
 <div id="partNum">
-XC7A35T-1CPG236C
+xc7a35ticpg236-1L
 </div>
 
 ## Overview <a name="overview"></a>
