@@ -44,14 +44,7 @@ sometimes called a " one-hot ", as only one of the outputs is '1' (or hot) at a 
 
 The truth table for the decoder is shown below.
 
-| Inputs | Outputs |
-| ----------- | ----------- |
-| a | b | d0 | d1 | d2 | d3 |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 0 | 0 | 1 | 0 | 0 | 0 |
-| 0 | 1 | 0 | 1 | 0 | 0 |
-| 1 | 0 | 0 | 0 | 1 | 0 |
-| 1 | 1 | 0 | 0 | 0 | 1 |
+![Simple Decoder Truth Table](../images/Demultiplexer/simple_decoder_truth_table.png) 
 
 As each output is '`1`' for only a single combination of inputs, a boolean expression that produces
 a particular output can be constructed by testing for the specific input combination. For
@@ -546,4 +539,4 @@ Program your FPGA with your demultiplexer and demonstrate your working system to
 
 
 ----
-Version:  E210 SP'2022.0
+Version:  E210 SP'2022.2
