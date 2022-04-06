@@ -21,7 +21,7 @@ Andrew Lukefahr\
 lukefahr@iu.edu\
 2032 Luddy Hall\
 Office Hours:
- - TBD
+ - Monday / Wednesday 11:00A - 12:00P in IF4111 or IF2032
 
 Bryce Himebaugh\
 bhimebau@iu.edu\
