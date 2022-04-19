@@ -53,7 +53,7 @@ with an appropriate methodology.
 | FSM/Timing        | **4/11:** [Timing / SPI](lectures/10_SPI_I.pdf)                           | **4/13:** [SPI _II](lectures/11_SPI_II.pdf)                         |  **[P9 SPI Interface](https://docs.google.com/document/d/1g8SYZxxi9_tiL3w2Q35Vs9CSczaZlnP3c5YszmsfWVg)** |
 | SPI Implementation| **4/18:** [SPI III](lectures/12_SPI_III.pdf)                                  | **4/20:** [SPI II](lectures/14_SPI_II.pdf)                        |   **[P9 SPI Interface](https://docs.google.com/document/d/1g8SYZxxi9_tiL3w2Q35Vs9CSczaZlnP3c5YszmsfWVg)** |
 | Review            | **4/25:** Overflow                                                        | **4/27:** [Review](lectures/18_Review.pdf)                        |                                               |
-|                   | **5/06:** Final Exam @ 12.40-2:40pm                         |                                                                   |                                               |
+|                   | **5/06:** (Friday) Final Exam @ 12.40-2:40pm                         |                                                                   |                                               |
 
 
 
