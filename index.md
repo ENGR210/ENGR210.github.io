@@ -1,28 +1,39 @@
 # Welcome to ENGR 210 ( CSCI B441 )
 
-Spring 2022
+Spring 2023
 
-This course provides a strong foundation for modern digital system
-design using hardware description languages. We start with basics of
-digital electronics and learn how digital gates are used to build
-large digital systems. We will practice modern digital system design
-by using state of the art software tools and implementation of the
-digital systems on a programmable hardware platform.  At the end of
-the course, students will be familiar with modern approach for
-designing digital systems, using hardware description languages along
-with an appropriate methodology.
+## Description
+
+This course provides an introduction to core topics in cyber-physical and digital systems. The
+first part of the course provides a foundation for modern cyber-physical system design. These
+topics include embedded systems, issues of real-time processing, and sensor mechanisms and
+control algorithms. Students will study applications of these elements in the Internet of Things
+and Robotics.
+The second part of the course covers digital system design using hardware description
+languages. We start with basics of digital electronics and learn how digital gates are used to
+build large digital systems. We will practice modern digital system design by using state of the
+art software tools and implementation of the digital systems on a programmable hardware
+platform.
+
+
+## Goals
+
+Our basic goal is to teach the students how to design and implement digital and cyber-physical
+systems. You will learn how to efficiently use state-of-the-art tools to design and produce well
+engineered systems. The course will also prepare you to take the upper-level systems classes
+and, even more important, you will learn skills and knowledge that will help you throughout
+your career.
+
 
 ## Quick Links
 
-### [Syllabus](syllabus.md)
+### [Syllabus](syllabus.pdf)
 
 ### [Downloads](http://github.com/engr210/downloads) 
 
 ### [Autograder](https://autograder.sice.indiana.edu) _(registered students only)_
 
 ### [Canvas](https://iu.instructure.com/courses/1947790) _(registered students only)_
-
-### [Zoom](https://iu.zoom.us/j/83005621515) 
 
 #### [Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)
 
@@ -33,9 +44,9 @@ with an appropriate methodology.
 [P5 - Raspberry Pi Setup](P5.md)
 -->
 
-## Course Schedule
+<!-- ## Course Schedule -->
 
-| Weekly Focus      | Monday                                                                    | Wed                                                               | Lab                                           |
+<!-- | Weekly Focus      | Monday                                                                    | Wed                                                               | Lab                                           |
 |-------------------|------------------------------------------------------------------         |--------------------------------------------------------------     |-----------------------------------------------|
 | CPS Intro/UART    | **1/10:** [CPS Introduction](lectures/CPS_Introduction.pdf)               | **1/12:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf)      | [**Project 0 Raspberry PI Setup**](P0) |
 | I2C Bus           | **1/17:** MLK Day                                                         | **1/19:** [I2C Bus Overview](lectures/I2C_Introduction.pdf)       | [**Project 1 I2C Pressure/Temperature Sensor**](P1)               |
@@ -55,6 +66,6 @@ with an appropriate methodology.
 | Review            | **4/25:** None                                                            | **4/27:** [Review](lectures/14_Review.pdf)                        |                                               |
 |                   | **5/06:** (Friday) Final Exam @ 12.40-2:40pm                         |                                                                   |                                               |
 
+ -->
 
-
-[Old Projects](old_projects.md)
+<!-- [Old Projects](old_projects.md) -->
