@@ -33,7 +33,7 @@ your career.
 
 ### [Autograder](https://autograder.sice.indiana.edu) _(registered students only)_
 
-### [Canvas](https://iu.instructure.com/courses/1947790) _(registered students only)_
+### [Canvas](https://iu.instructure.com/courses/2119511) _(registered students only)_
 
 #### [Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)
 
