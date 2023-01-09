@@ -1,3 +1,5 @@
+![Drag Racing](images/processor.gif)
+
 # Welcome to ENGR 210 ( CSCI B441 )
 
 Spring 2023
