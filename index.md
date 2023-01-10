@@ -42,32 +42,31 @@ your career.
 #### [Vivado Tutorial](vlog/projects/A_Logic_Gates) 
 
 
-<!--
-[P5 - Raspberry Pi Setup](P5.md)
--->
 
-<!-- ## Course Schedule -->
+<!-- [P5 - Raspberry Pi Setup](P5.md) -->
 
-<!-- | Weekly Focus      | Monday                                                                    | Wed                                                               | Lab                                           |
+## Classes and Labs Schedule
+
+| Weekly Focus      | Monday| Wednesday | Lab (Wednesday, Friday)|
 |-------------------|------------------------------------------------------------------         |--------------------------------------------------------------     |-----------------------------------------------|
-| CPS Intro/UART    | **1/10:** [CPS Introduction](lectures/CPS_Introduction.pdf)               | **1/12:** [Pi Intro/UART Bus](lectures/RaspberryPi_UART.pdf)      | [**Project 0 Raspberry PI Setup**](P0) |
-| I2C Bus           | **1/17:** MLK Day                                                         | **1/19:** [I2C Bus Overview](lectures/I2C_Introduction.pdf)       | [**Project 1 I2C Pressure/Temperature Sensor**](P1)               |
-| I2C and SPI Bus   | **1/24:** [Pressure Sensor](lectures/LPS331AP_Pressure_Sensor_SP22.pdf)   | **1/26:** [SPI Bus Overview](lectures/SPI_bus_SP22.pdf)           | [**Project 2 SPI Accelerometer**](P2) |
-| SPI/Networking    | **1/31:** [Accelerometer](lectures/Accelerometer_SP22.pdf)                | **2/2:** [MQTT](lectures/MQTT_SP22.pdf)                           | [**Project 3 MQTT Sensor Data Server**](P3) |
-| Networking        | **2/7:** [GPIO/LED](lectures/GPIO_LED.pdf)                                | **2/9:** [Flask](lectures/Flask_sp22.pdf)                         | [**Project 4 Sensor LED Output**](P4) |
-| Web Server        | **2/14:** No Class                                                        | **2/16:** [CPS Wrapup](lectures/CPS_Wrapup_SP22.pdf), [Exam Review](exam1) | None |
-| Evaluation        | **2/21:** Exam 1                                                          | **2/23:** [CE Intro/ Logic](lectures/00_Logic_Gates.pdf)          | **[P5 Demultiplexer](vlog/projects/B_Demultiplexer)** |
-| CPE Intro/Logic   | **2/28:** [Truth Tables](lectures/01_Truth_Tables.pdf)                    | **3/2:** [Verilog Basics](lectures/02_Verilog_Basics.pdf)         | **[P6 ALU](https://docs.google.com/document/d/1uhQR3LDZLIDAheTqNy58HJ456uEFfEh4IH7j1ZReyHM)**|
-| Combinational Logic|**3/7:**  [Testbenches](lectures/03_Testbenches.pdf)                      | **3/9:** [Math](lectures/04_Math.pdf)                             |  **[P7 Saturating Counter](https://docs.google.com/document/d/1JLgk0VguSrih_h3BsMyMtInTJ4Qrl--Hv2jkxK4chZw)**|
-|                   | **3/14:** Spring Break                                                    | **3/16:** Spring Break                                            |                                               |
-| Sequential Logic  | **3/21:** [Latches](lectures/05_Latches.pdf)                              | **3/23:** Exam Review                                             | **[P7 Saturating Counter](https://docs.google.com/document/d/1JLgk0VguSrih_h3BsMyMtInTJ4Qrl--Hv2jkxK4chZw)**|
-| FSMs              | **3/28:** [Flops](lectures/06_Flops.pdf)                                  | **3/31:** [Sequential Logic](lectures/07_Sequential_Logic.pdf)          | **[P8 Elevator Controller](https://docs.google.com/document/d/1IdqlRf4rqOpv0cBeurJ29rpMXwudnfIx8i1Z8IPmqxI)**|
-| FSMs              | **4/4:** [FSMs I](lectures/08_FSM_I.pdf)                                  | **4/6:** [FSMs II](lectures/09_FSM_II.pdf)                       | **[P8 Elevator Controller](https://docs.google.com/document/d/1IdqlRf4rqOpv0cBeurJ29rpMXwudnfIx8i1Z8IPmqxI)**|
-| FSM/Timing        | **4/11:** [Timing / SPI](lectures/10_SPI_I.pdf)                           | **4/13:** [SPI _II](lectures/11_SPI_II.pdf)                         |  **[P9 SPI Interface](https://docs.google.com/document/d/1g8SYZxxi9_tiL3w2Q35Vs9CSczaZlnP3c5YszmsfWVg)** |
-| SPI Implementation| **4/18:** [SPI III](lectures/12_SPI_III.pdf)                              | **4/20:** [Memory](lectures/13_Memory.pdf)                        |   **[P9 SPI Interface](https://docs.google.com/document/d/1g8SYZxxi9_tiL3w2Q35Vs9CSczaZlnP3c5YszmsfWVg)** |
-| Review            | **4/25:** None                                                            | **4/27:** [Review](lectures/14_Review.pdf)                        |                                               |
-|                   | **5/06:** (Friday) Final Exam @ 12.40-2:40pm                         |                                                                   |                                               |
+| Introduction and Standard I/O    | **1/9** | **1/11**| [**Project 0 Raspberry PI Setup**](P0) |
+| I2C Serial communication | **1/16: MLK Day** No classes| **1/18**| [**Project 1 I2C Pressure/Temperature Sensor**](P1)|
+| Pressure sensor and SPI bus | **1/23**| **1/25**| <!-- [**Project 2 SPI Accelerometer**](P2)--> |
+| Accelerometer and MQTT| **1/30**| **2/1**| <!--[**Project 3 MQTT Sensor Data Server**](P3)-->  |
+|Parallel input/output| **2/6**| **2/8**|<!-- [**Project 4 Sensor LED Output**](P4)-->  |
+| CPS Wrap-up | **2/13**| **2/15: Exam 1 Review**| No Labs |
+|Evaluation| **2/20: Exam 1** | **2/22:** Intro. to Digital Design |<!-- **[P5 Demultiplexer](vlog/projects/B_Demultiplexer)** --> |
+|Verilog| **2/27**| **3/1**|  <!--**[P6 ALU](https://docs.google.com/document/d/1uhQR3LDZLIDAheTqNy58HJ456uEFfEh4IH7j1ZReyHM)**-->|
+|Test benches and combinational logic|**3/6**  | **3/8** | |
+|Spring Break| **3/13:** No Classes | **3/15:** No Classes | |
+|Sequential Logic  | **3/20**  | **3/22**  | No Labs |
+|Finite state machines (FSM's)| **3/27** | **3/29**   |<!-- **[P8 Elevator Controller](https://docs.google.com/document/d/1IdqlRf4rqOpv0cBeurJ29rpMXwudnfIx8i1Z8IPmqxI)**--> |
+| FSM's Cont. | **4/3** | **4/5** | <!--**[P8 Elevator Controller](https://docs.google.com/document/d/1IdqlRf4rqOpv0cBeurJ29rpMXwudnfIx8i1Z8IPmqxI)**--> |
+| Serial communication | **4/10**  | **4/12** | <!-- **[P9 SPI Interface](https://docs.google.com/document/d/1g8SYZxxi9_tiL3w2Q35Vs9CSczaZlnP3c5YszmsfWVg)** -->  |
+|Memories| **4/17**   | **4/19**  | <!--  **[P9 SPI Interface](https://docs.google.com/document/d/1g8SYZxxi9_tiL3w2Q35Vs9CSczaZlnP3c5YszmsfWVg)**-->  |
+|Evaluation| **4/24 Exam 2 Review**   | **4/26: Exam 2**  |  |
 
- -->
+
 
 <!-- [Old Projects](old_projects.md) -->
+<!-- **[P7 Saturating Counter](https://docs.google.com/document/d/1JLgk0VguSrih_h3BsMyMtInTJ4Qrl--Hv2jkxK4chZw)** -->
