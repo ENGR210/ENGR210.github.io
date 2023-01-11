@@ -1,8 +1,8 @@
-![Drag Racing](images/processor.gif)
+![Cover](images/cover.png)
 
-# Welcome to ENGR 210 ( CSCI B441 )
+# Welcome to Engineering Cyber-Physical Systems (E210/B441)
+### Spring 2023
 
-Spring 2023
 
 ## Description
 
