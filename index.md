@@ -52,7 +52,7 @@ your career.
 | Introduction and Standard I/O    | **1/9** | **1/11**| [**Project 0 Raspberry PI Setup**](P0) |
 | I2C Serial communication | **1/16: MLK Day** No classes| **1/18**| [**Project 1 I2C Pressure/Temperature Sensor**](P1)|
 | Pressure sensor and SPI bus | **1/23**| **1/25**| [**Project 2 SPI Accelerometer**](P2) |
-| Accelerometer and MQTT| **1/30**| **2/1**| <!--[**Project 3 MQTT Sensor Data Server**](P3)-->  |
+| Accelerometer and MQTT| **1/30**| **2/1**| [**Project 3 MQTT Sensor Data Server**](P3) |
 |Parallel input/output| **2/6**| **2/8**|<!-- [**Project 4 Sensor LED Output**](P4)-->  |
 | CPS Wrap-up | **2/13**| **2/15: Exam 1 Review**| No Labs |
 |Evaluation| **2/20: Exam 1** | **2/22:** Intro. to Digital Design |<!-- **[P5 Demultiplexer](vlog/projects/B_Demultiplexer)** --> |
