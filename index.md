@@ -33,7 +33,7 @@ your career.
 
 ### [Downloads](http://github.com/engr210/downloads) 
 
-### [Autograder](https://autograder.sice.indiana.edu) _(registered students only)_
+### [Autograder](https://autograder.luddy.indiana.edu) _(registered students only)_
 
 ### [Canvas](https://iu.instructure.com/courses/2119511) _(registered students only)_
 
