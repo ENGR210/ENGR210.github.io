@@ -1,4 +1,4 @@
-# Project 0: Logic Gates
+# Vivado Tutorial: Logic Gates
 
 <link rel="stylesheet" href="style.css">
 
@@ -43,7 +43,7 @@ a digital system that uses three basic logic gates: the AND gate, the OR gate, a
 gate. The logic schematic of the digital system is given below.
 </div>
 
-![Project Schematic](../images/Logic_Gates/project_schematic.png)
+![Project Schematic](assets/VV_Tutorial/project_schematic.png)
 
 <div id="blk">
 If you need help you can contact Christopher Sozio through email: christopher.sozio@navy.mil
@@ -68,7 +68,7 @@ The truth table for a 2-input AND gate is:
 And is denoted by the following schematic symbol:
 </div>
 
-![And](../images/Logic_Gates/and.png)
+![And](assets/VV_Tutorial/and.png)
 
 <div id="blk">
 The verilog keyword is: <b>&</b>
@@ -91,7 +91,7 @@ The truth table for a 2 input OR gate is:
 And is denoted by the following schematic symbol:
 </div>
 
-![Or](../images/Logic_Gates/or.png)
+![Or](assets/VV_Tutorial/or.png)
 
 <div id="blk">
 The verilog keyword is: <b>|</b>
@@ -112,7 +112,7 @@ The truth table for a 1-input NOT gate is:
 And is denoted by the following schematic symbol:
 </div>
 
-![Not](../images/Logic_Gates/not.png)
+![Not](assets/VV_Tutorial/not.png)
 
 <div id="blk">
 The verilog keyword is: <b>~</b>
@@ -135,7 +135,7 @@ Remote users are encouraged to follow the tutorial here:
 To launch Vivado, you should only need to type 'vivado' into the command line:
 </div>
 
-![Terminal Screenshot](../images/Logic_Gates/terminal_screenshot.png) -->
+![Terminal Screenshot](assets/VV_Tutorial/terminal_screenshot.png) -->
 
 ## Creating a Vivado Project <a name="creating-a-vivado-project"></a>
 
@@ -145,7 +145,7 @@ To launch Vivado, you should only need to type 'vivado' into the command line:
     </ul>
 </div>
 
-![Vivado Create Project Screen](../images/Logic_Gates/vivado_create_project_screen.png)
+![Vivado Create Project Screen](assets/VV_Tutorial/vivado_create_project_screen.png)
 
 <div id="blk">
     <ul>
@@ -159,7 +159,7 @@ To launch Vivado, you should only need to type 'vivado' into the command line:
     </ul>
 </div>
 
-![Vivado Basys3 Part](../images/Logic_Gates/vivado_basys3_part.png)
+![Vivado Basys3 Part](assets/VV_Tutorial/vivado_basys3_part.png)
 
 <div id="blk">
     <ul>
@@ -168,7 +168,7 @@ To launch Vivado, you should only need to type 'vivado' into the command line:
     </ul>
 </div>
 
-![Vivado Main Screen](../images/Logic_Gates/vivado_main_screen.png)
+![Vivado Main Screen](assets/VV_Tutorial/vivado_main_screen.png)
 
 ## Creating a Design Source File <a name="creating-a-design-source-file"></a>
 
@@ -187,7 +187,7 @@ Now we will add our first SystemVerilog source file
     </ul>
 </div>
 
-![Vivado Add Source](../images/Logic_Gates/vivado_add_source.png)
+![Vivado Add Source](assets/VV_Tutorial/vivado_add_source.png)
 
 <div id="blk">
     <ul>
@@ -196,7 +196,7 @@ Now we will add our first SystemVerilog source file
     </ul>
 </div>
 
-![Vivado Project Manager](../images/Logic_Gates/vivado_project_manager.png)
+![Vivado Project Manager](assets/VV_Tutorial/vivado_project_manager.png)
 
 <div id="blk">
     <ul>
@@ -226,7 +226,7 @@ endmodule
     </ul>
 </div>
 
-![Vivado Verilog](../images/Logic_Gates/vivado_verilog.png)
+![Vivado Verilog](assets/VV_Tutorial/vivado_verilog.png)
 
 <div id="blk">
     <ul>
@@ -375,7 +375,7 @@ endmodule
 Now we should have all of our source files. Your setup should look like the following:
 </div>
 
-![Vivado Finished Project](../images/Logic_Gates/vivado_finished_project.png)
+![Vivado Finished Project](assets/VV_Tutorial/vivado_finished_project.png)
 
 ## Running a Simulation <a name="running-a-simulation"></a>
 
@@ -392,7 +392,7 @@ outputs of our verilog module.
     </ul>
 </div>
 
-![Vivado Simulation Console](../images/Logic_Gates/vivado_simulation_console.png)
+![Vivado Simulation Console](assets/VV_Tutorial/vivado_simulation_console.png)
 
 <div id="blk">
     <ul>
@@ -400,7 +400,7 @@ outputs of our verilog module.
     </ul>
 </div>
 
-![Vivado Click Waveform Tab](../images/Logic_Gates/vivado_click_waveform_tab.png)
+![Vivado Click Waveform Tab](assets/VV_Tutorial/vivado_click_waveform_tab.png)
 
 <div id="blk">
     <ul>
@@ -408,19 +408,19 @@ outputs of our verilog module.
     </ul>
 </div>
 
-![Vivado Non Zoomed Out Waveform](../images/Logic_Gates/vivado_non_zoomed_out_waveform.png)
+![Vivado Non Zoomed Out Waveform](assets/VV_Tutorial/vivado_non_zoomed_out_waveform.png)
 
 <div id="blk">
-- Now click on the ![Vivado Zoom Out Button](../images/Logic_Gates/vivado_zoom_out_button.png) button:
+- Now click on the ![Vivado Zoom Out Button](assets/VV_Tutorial/vivado_zoom_out_button.png) button:
 </div>
 
-![Vivado Click Zoom Out Button](../images/Logic_Gates/vivado_click_zoom_out_button.png)
+![Vivado Click Zoom Out Button](assets/VV_Tutorial/vivado_click_zoom_out_button.png)
 
 <div id="blk">
 - Now your wave window should display the entire <b>waveform</b>. Waveforms allow us to observe how signals change through time. Time moves from left to right, it starts at `0ns` (nanoseconds), and moves to `900ns`.
 </div>
 
-![Vivado Zoomed Out Waveform](../images/Logic_Gates/vivado_zoomed_out_waveform.png)
+![Vivado Zoomed Out Waveform](assets/VV_Tutorial/vivado_zoomed_out_waveform.png)
 
 <div id="blk">
 - The simulator looks for an initial block to run the simulations.
@@ -500,7 +500,7 @@ Submit to me (Chris Sozio) if you would like. Email: christopher.sozio@navy.mil
 - You will need to select your 'bitstream' file. Xilinx did not make this easy. The bitstream is located at './project_0.runs/impl_1/top.bit' within your project. See the example below:
 </div>
 
-![Vivado Program Bitstream](../images/Logic_Gates/vivado_program_bitstream.png)
+![Vivado Program Bitstream](assets/VV_Tutorial/vivado_program_bitstream.png)
 
 <div id="blk">
 - With the bitstream selected, hit "program". This should only take a few seconds.
@@ -513,7 +513,7 @@ You should now be able to test your FPGA. When you flip the right-most switches,
 corresponding LEDs should also toggle.
 </div>
 
-![Basys3 Programmed](../images/Logic_Gates/basys3_programmed.png)
+![Basys3 Programmed](assets/VV_Tutorial/basys3_programmed.png)
 
 <div id="blk">
 This concludes the Vivado tutorial lab.

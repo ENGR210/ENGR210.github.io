@@ -39,7 +39,7 @@ your career.
 
 #### [Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)
 
-#### [Vivado Tutorial](legacy/extra/eDocs/A_Logic_Gates) 
+#### [Vivado Tutorial](projects/vivado_tutorial) 
 
 
 
