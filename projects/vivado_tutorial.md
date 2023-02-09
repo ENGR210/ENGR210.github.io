@@ -15,10 +15,9 @@
 7. [Create Simulation File](#create-simulation-file)
 8. [Project Checkpoint](#project-checkpoint)
 9. [Running a Simulation](#running-a-simulation)
-10. [Autograder Submission](#autograder-submission)
-11. [Hardware Synthesis](#hardware-synthesis)
-12. [Programming the FPGA](#programming-the-fpga)
-13. [Testing your FPGA](#testing-your-fpga)
+10. [Hardware Synthesis](#hardware-synthesis)
+11. [Programming the FPGA](#programming-the-fpga)
+12. [Testing your FPGA](#testing-your-fpga)
 
 
 ### Board/Part Number
