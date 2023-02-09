@@ -45,10 +45,6 @@ gate. The logic schematic of the digital system is given below.
 
 ![Project Schematic](assets/VV_Tutorial/project_schematic.png)
 
-<div id="blk">
-If you need help you can contact Christopher Sozio through email: christopher.sozio@navy.mil
-</div>
-
 ## Background <a name="background"></a>
 
 ### AND Gate <a name="and-gate"></a>
@@ -469,12 +465,6 @@ assert( mynot == 1) else $fatal(1, "mynot");
 - This process repeats for every possible combination of `a` and `b`.
 
 - Waveform simulations are a great way to visualize and understand what is happening when problems arise. We will use them frequently in this class. The autograder uses a command-line version of these same simulations for its tests.
-</div>
-
-## Autograder Submission <a name="autograder-submission"></a>
-
-<div id="blk">
-Submit to me (Chris Sozio) if you would like. Email: christopher.sozio@navy.mil
 </div>
 
 ## Hardware Synthesis <a name="hardware-synthesis"></a>
