@@ -55,7 +55,7 @@ your career.
 | Accelerometer and MQTT| **1/30**| **2/1**| [**Project 3 MQTT Sensor Data Server**](projects/P3) |
 |Parallel input/output| **2/6**| **2/8**|[**Project 4 Sensor LED Output**](projects/P4)  |
 | CPS Wrap-up | **2/13**| **2/15: Exam 1 Review**| No Labs |
-|Evaluation| **2/20: Exam 1** | **2/22:** Intro. to Digital Design |[P5 Demultiplexer](projects/P5)|
+|Evaluation| **2/20: Exam 1** | **2/22:** Intro. to Digital Design |[**P5 Demultiplexer**](projects/P5)|
 |Verilog| **2/27**| **3/1**|  <!--**[P6 ALU](projects/P6)**-->|
 |Test benches and combinational logic|**3/6**  | **3/8** | |
 |Spring Break| **3/13:** No Classes | **3/15:** No Classes | |
