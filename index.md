@@ -56,14 +56,14 @@ your career.
 |Parallel input/output| **2/6**| **2/8**|[**Project 4 Sensor LED Output**](projects/P4)  |
 | CPS Wrap-up | **2/13**| **2/15: Exam 1 Review**| No Labs |
 |Evaluation| **2/20: Exam 1** | **2/22:** Intro. to Digital Design |[**P5 Demultiplexer**](projects/P5)|
-|Verilog| **2/27**| **3/1**|  <!--**[P6 ALU](projects/P6)**-->|
+|Verilog| **2/27**| **3/1**|  **[P6 ALU](projects/P6)**|
 |Test benches and combinational logic|**3/6**  | **3/8** | |
 |Spring Break| **3/13:** No Classes | **3/15:** No Classes | |
 |Sequential Logic  | **3/20**  | **3/22**  | No Labs |
-|Finite state machines (FSM's)| **3/27** | **3/29**   |<!-- **[P7 Elevator Controller](projects/P7)**--> |
-| FSM's Cont. | **4/3** | **4/5** | <!--**[P7 Elevator Controller](projects/P7)**--> |
-| Serial communication | **4/10**  | **4/12** | <!-- **[P8 SPI Interface](projects/P8)** -->  |
-|Memories| **4/17**   | **4/19**  | <!--  **[P8 SPI Interface](projects/P8)**-->  |
+|Finite state machines (FSM's)| **3/27** | **3/29**   |<!-- **[P8 Elevator Controller](projects/P8)**--> |
+| FSM's Cont. | **4/3** | **4/5** | <!--**[P8 Elevator Controller](projects/P8)**--> |
+| Serial communication | **4/10**  | **4/12** | <!-- **[P9 SPI Interface](projects/P9)** -->  |
+|Memories| **4/17**   | **4/19**  | <!--  **[P9 SPI Interface](projects/P8)**-->  |
 |Evaluation| **4/24 Exam 2 Review**   | **4/26: Exam 2**  |  |
 
 
