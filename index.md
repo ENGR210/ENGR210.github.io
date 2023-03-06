@@ -57,7 +57,7 @@ your career.
 | CPS Wrap-up | **2/13**| **2/15: Exam 1 Review**| No Labs |
 |Evaluation| **2/20: Exam 1** | **2/22:** Intro. to Digital Design |[**P5 Demultiplexer**](projects/P5)|
 |Verilog| **2/27**| **3/1**|  **[P6 ALU](projects/P6)**|
-|Test benches and combinational logic|**3/6**  | **3/8** | |
+|Test benches and combinational logic|**3/6**  | **3/8** | **[P7 Saturating Counter](projects/P7)** |
 |Spring Break| **3/13:** No Classes | **3/15:** No Classes | |
 |Sequential Logic  | **3/20**  | **3/22**  | No Labs |
 |Finite state machines (FSM's)| **3/27** | **3/29**   |<!-- **[P8 Elevator Controller](projects/P8)**--> |
