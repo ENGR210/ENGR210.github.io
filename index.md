@@ -60,8 +60,8 @@ your career.
 |Test benches and combinational logic|**3/6**  | **3/8** | **[P7 Saturating Counter](projects/P7)** |
 |Spring Break| **3/13:** No Classes | **3/15:** No Classes | |
 |Sequential Logic  | **3/20**  | **3/22**  | No Labs |
-|Finite state machines (FSM's)| **3/27** | **3/29**   |<!-- **[P8 Elevator Controller](projects/P8)**--> |
-| FSM's Cont. | **4/3** | **4/5** | <!--**[P8 Elevator Controller](projects/P8)**--> |
+|Finite state machines (FSM's)| **3/27** | **3/29**   | **[P8 Elevator Controller](projects/P8)** |
+| FSM's Cont. | **4/3** | **4/5** | **[P8 Elevator Controller](projects/P8)** |
 | Serial communication | **4/10**  | **4/12** | <!-- **[P9 SPI Interface](projects/P9)** -->  |
 |Memories| **4/17**   | **4/19**  | <!--  **[P9 SPI Interface](projects/P8)**-->  |
 |Evaluation| **4/24 Exam 2 Review**   | **4/26: Exam 2**  |  |
