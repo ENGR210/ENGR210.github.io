@@ -63,7 +63,7 @@ your career.
 | Finite state machines (FSM's)| **3/25** | **3/27**   | **[P8 Elevator Controller](projects/P8)** |
 | Memory | **4/1** | **4/3** | **[P8 Elevator Controller](projects/P8)** |
 | Processor | **4/8**  | **4/10** | **[P9 SPI Interface](projects/P9)**  |
-| Review and Exam 2 | **4/15 Exam 2 Review**   | **4/17: Exam 2**  | **[P9 SPI Interface](projects/P8)** |
+| Review and Exam 2 | **4/15 Exam 2 Review**   | **4/17: Exam 2**  | **[P9 SPI Interface](projects/P9)** |
 | Cache Memory | **4/22**   | **4/24**  | No Labs |
 
 
