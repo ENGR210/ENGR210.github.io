@@ -52,10 +52,10 @@ your career.
 | Introduction and Cyber-Physical Systems    | **1/8** | **1/10**| [**Project 0 Raspberry PI Setup**](projects/P0) |
 | I2C Serial communication | **1/15: MLK Day** No classes| **1/17**| [**Project 1 I2C Pressure/Temperature Sensor**](projects/P1)|
 | Pressure sensor and SPI bus | **1/22**| **1/24**| [**Project 2 SPI Accelerometer**](projects/P2) |
-| Accelerometer and MQTT| **1/29**| **1/31**| [**Project 3 MQTT Sensor Data Server**](#projects/P3) |
-| Parallel input/output| **2/5**| **2/7**|[**Project 4 Sensor LED Output**](#projects/P4)  |
+| Accelerometer and MQTT| **1/29**| **1/31**| [**Project 3 MQTT Sensor Data Server**](projects/P3) |
+| Parallel input/output| **2/5**| **2/7**|[**Project 4 Sensor LED Output**](projects/P4)  |
 | HDL and Exam 1 Review | **2/12**| **2/14: Exam 1 Review**| No Labs |
-| Exam 1 and Vivado | **2/19: Exam 1** | **2/21:** Intro. to Digital Design |[**P5 Demultiplexer**](#projects/P5)|
+| Exam 1 and Vivado | **2/19: Exam 1** | **2/21:** Intro. to Digital Design |[**P5 Demultiplexer**](projects/P5)|
 | Combinational Logic | **2/26**| **2/28**|  **[P6 ALU](#https://github.com/ENGR210/ENGR210.github.io/blob/master/projects/P6.md)**|
 | Sequential Logic|**3/4**  | **3/6** | **[P7 Saturating Counter](#projects/P7)** |
 | Spring Break| **3/11:** No Classes | **3/13:** No Classes | |
