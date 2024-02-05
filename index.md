@@ -55,15 +55,15 @@ your career.
 | Accelerometer and MQTT| **1/29**| **1/31**| [**Project 3 MQTT Sensor Data Server**](projects/P3) |
 | Parallel input/output| **2/5**| **2/7**|[**Project 4 Sensor LED Output**](projects/P4)  |
 | HDL and Exam 1 Review | **2/12**| **2/14: Exam 1 Review**| No Labs |
-| Exam 1 and Vivado | **2/19: Exam 1** | **2/21:** Intro. to Digital Design |[**P5 Demultiplexer**](#projects/P5)|
-| Combinational Logic | **2/26**| **2/28**|  **[P6 ALU](#projects/P6)**|
-| Sequential Logic|**3/4**  | **3/6** | **[P7 Saturating Counter](#projects/P7)** |
+| Exam 1 and Vivado | **2/19: Exam 1** | **2/21:** Intro. to Digital Design |[**P5 Demultiplexer**](projects/P5)|
+| Combinational Logic | **2/26**| **2/28**|  **[P6 ALU](projects/P6)**|
+| Sequential Logic|**3/4**  | **3/6** | **[P7 Saturating Counter](projects/P7)** |
 | Spring Break| **3/11:** No Classes | **3/13:** No Classes | |
 | Registers and counters  | **3/18**  | **3/20**  | No Labs |
-| Finite state machines (FSM's)| **3/25** | **3/27**   | **[P8 Elevator Controller](#projects/P8)** |
-| Memory | **4/1** | **4/3** | **[P8 Elevator Controller](#projects/P8)** |
-| Processor | **4/8**  | **4/10** | **[P9 SPI Interface](#projects/P9)**  |
-| Review and Exam 2 | **4/15 Exam 2 Review**   | **4/17: Exam 2**  | **[P9 SPI Interface](#projects/P9)** |
+| Finite state machines (FSM's)| **3/25** | **3/27**   | **[P8 Elevator Controller](projects/P8)** |
+| Memory | **4/1** | **4/3** | **[P8 Elevator Controller](projects/P8)** |
+| Processor | **4/8**  | **4/10** | **[P9 SPI Interface](projects/P9)**  |
+| Review and Exam 2 | **4/15 Exam 2 Review**   | **4/17: Exam 2**  | **[P9 SPI Interface](projects/P9)** |
 | Cache Memory | **4/22**   | **4/24**  | No Labs |
 
 
