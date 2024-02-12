@@ -56,7 +56,7 @@ your career.
 | Parallel input/output| **2/5**| **2/7**|[**Project 4 Sensor LED Output**](projects/P4)  |
 | HDL and Exam 1 Review | **2/12**| **2/14: Exam 1 Review**| No Labs |
 | Exam 1 and Vivado | **2/19: Exam 1** | **2/21:** Intro. to Digital Design |[**P5 Demultiplexer**](projects/P5)|
-| Combinational Logic | **2/26**| **2/28**|  **[P6 ALU](projects/P6)**|
+| Combinational Logic | **2/26**| **2/28**|  **[P6 ALU](https://github.com/ENGR210/ENGR210.github.io/blob/master/projects/P6.md)**|
 | Sequential Logic|**3/4**  | **3/6** | **[P7 Saturating Counter](projects/P7)** |
 | Spring Break| **3/11:** No Classes | **3/13:** No Classes | |
 | Registers and counters  | **3/18**  | **3/20**  | No Labs |
