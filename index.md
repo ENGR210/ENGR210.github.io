@@ -59,7 +59,7 @@ your career.
 | Combinational Logic | **2/26**| **2/28**|  **[P6 ALU](https://github.com/ENGR210/ENGR210.github.io/blob/master/projects/P6.md)**|
 | Sequential Logic|**3/4**  | **3/6** | **[P7 Saturating Counter](projects/P7)** |
 | Spring Break| **3/11:** No Classes | **3/13:** No Classes | |
-| Registers and counters  | **3/18**  | **3/20**  | No Labs |
+| Registers and counters  | **3/18**  | **3/20**  | **[P7 Saturating Counter](projects/P7)** |
 | Finite state machines (FSM's)| **3/25** | **3/27**   | **[P8 Elevator Controller](projects/P8)** |
 | Memory | **4/1** | **4/3** | **[P8 Elevator Controller](projects/P8)** |
 | Processor | **4/8**  | **4/10** | **[P9 SPI Interface](projects/P9)**  |
