@@ -49,22 +49,22 @@ your career.
 
 | Weekly Focus      | Monday| Wednesday | Lab (Wednesday, Friday)|
 |-------------------|------------------------------------------------------------------         |--------------------------------------------------------------     |-----------------------------------------------|
-| Introduction and Cyber-Physical Systems    | **1/8** | **1/10**| [**Project 0 Raspberry PI Setup**](projects/P0) |
-| I2C Serial communication | **1/15: MLK Day** No classes| **1/17**| [**Project 1 I2C Pressure/Temperature Sensor**](projects/P1)|
-| Pressure sensor and SPI bus | **1/22**| **1/24**| [**Project 2 SPI Accelerometer**](projects/P2) |
-| Accelerometer and MQTT| **1/29**| **1/31**| [**Project 3 MQTT Sensor Data Server**](projects/P3) |
-| Parallel input/output| **2/5**| **2/7**|[**Project 4 Sensor LED Output**](projects/P4)  |
-| HDL and Exam 1 Review | **2/12**| **2/14: Exam 1 Review**| No Labs |
-| Exam 1 and Vivado | **2/19: Exam 1** | **2/21:** Intro. to Digital Design |[**P5 Demultiplexer**](projects/P5)|
-| Combinational Logic | **2/26**| **2/28**|  **[P6 ALU](https://github.com/ENGR210/ENGR210.github.io/blob/master/projects/P6.md)**|
-| Sequential Logic|**3/4**  | **3/6** | **[P7 Saturating Counter](projects/P7)** |
-| Spring Break| **3/11:** No Classes | **3/13:** No Classes | |
-| Registers and counters  | **3/18**  | **3/20**  | **[P7 Saturating Counter](projects/P7)** |
-| Finite state machines (FSM's)| **3/25** | **3/27**   | **[P8 Elevator Controller](projects/P8)** |
-| Memory | **4/1** | **4/3** | **[P8 Elevator Controller](projects/P8)** |
-| Processor | **4/8**  | **4/10** | **[P9 SPI Interface](projects/P9)**  |
-| Review and Exam 2 | **4/15 Exam 2 Review**   | **4/17: Exam 2**  | **[P9 SPI Interface](projects/P9)** |
-| Cache Memory | **4/22**   | **4/24**  | No Labs |
+| Introduction and Cyber-Physical Systems    | **1/13** | **1/15**| [**Project 0 Raspberry PI Setup**](projects/P0) |
+| I2C Serial communication | **1/20: MLK Day** No classes| **1/22**| [**Project 1 I2C Pressure/Temperature Sensor**](projects/P1)|
+| Pressure sensor and SPI bus | **1/27**| **1/29**| [**Project 2 SPI Accelerometer**](projects/P2) |
+| Accelerometer and MQTT| **2/3**| **2/5**| [**Project 3 MQTT Sensor Data Server**](projects/P3) |
+| Parallel input/output| **2/10**| **2/12**|[**Project 4 Sensor LED Output**](projects/P4)  |
+| HDL and Exam 1 Review | **2/17**| **2/19: Exam 1 Review**| No Labs |
+| Exam 1 and Vivado | **2/24: Exam 1** | **2/26:** Intro. to Digital Design |[**P5 Demultiplexer**](projects/P5)|
+| Combinational Logic | **3/3**| **3/5**|  **[P6 ALU](https://github.com/ENGR210/ENGR210.github.io/blob/master/projects/P6.md)**|
+| Sequential Logic|**3/10**  | **3/12** | **[P7 Saturating Counter](projects/P7)** |
+| Spring Break| **3/17:** No Classes | **3/19:** No Classes | |
+| Registers and counters  | **3/24**  | **3/26**  | **[P7 Saturating Counter](projects/P7)** |
+| Finite state machines (FSM's)| **3/31** | **4/2**   | **[P8 Elevator Controller](projects/P8)** |
+| Memory | **4/7** | **4/9** | **[P8 Elevator Controller](projects/P8)** |
+| Processor | **4/14**  | **4/16** | **[P9 SPI Interface](projects/P9)**  |
+| Review and Exam 2 | **4/21 Exam 2 Review**   | **4/23: Exam 2**  | **[P9 SPI Interface](projects/P9)** |
+| Cache Memory | **4/28**   | **4/30**  | No Labs |
 
 
 
