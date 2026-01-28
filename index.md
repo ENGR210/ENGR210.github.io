@@ -1,7 +1,7 @@
 ![Cover](projects/assets/index/cover.png)
 
 # Welcome to Engineering Cyber-Physical Systems (E210/B441)
-### Spring 2025 
+### Spring 2026 
 
 
 ## Description
