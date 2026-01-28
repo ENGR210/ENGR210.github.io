@@ -50,7 +50,7 @@ your career.
 | Weekly Focus      | Monday| Wednesday | Lab (Wednesday, Friday)|
 |-------------------|------------------------------------------------------------------         |--------------------------------------------------------------     |-----------------------------------------------|
 | Introduction and Cyber-Physical Systems    | **1/13** | **1/15**| [**Project 0 Raspberry PI Setup**](projects/P0) |
-| I2C Serial communication | **1/20: MLK Day** No classes| **1/22**| [**Project 1 I2C Pressure/Temperature Sensor**](projects/P1)|
+| I2C Serial communication | **1/20** | **1/22**| [**Project 1 I2C Pressure/Temperature Sensor**](projects/P1)|
 | Pressure sensor and SPI bus | **1/27**| **1/29**| [**Project 2 SPI Accelerometer**](projects/P2) |
 | Accelerometer and MQTT| **2/3**| **2/5**| [**Project 3 MQTT Sensor Data Server**](projects/P3) |
 | Parallel input/output| **2/10**| **2/12**|[**Project 4 Sensor LED Output**](projects/P4)  |
